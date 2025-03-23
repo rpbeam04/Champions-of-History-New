@@ -1,0 +1,3104 @@
+--REGION 1--
+1. Maximilian I, Holy Roman Emperor (97)
+64. Kanō Masanobu (51)
+
+32. Edmund Hillary (60)
+33. Edward Bernays (60)
+
+16. Vallabhbhai Patel (65)
+49. Alfred Kinsey (56)
+
+17. Ambrose (65)
+48. Fanny Blankers-Koen (56)
+
+8. Arthur Wellesley, 1st Duke of Wellington (71)
+57. Prince Henry the Navigator (55)
+
+25. Carl Friedrich Gauss (62)
+40. Cyril and Methodius (58)
+
+9. James K. Polk (71)
+56. Larisa Latynina (55)
+
+24. Abd al-Malik ibn Marwan (62)
+41. Charles XII of Sweden (58)
+
+4. Ariana Grande (75)
+61. Robert Guiscard (54)
+
+29. A. J. P. Taylor (61)
+36. Jan Hus (59)
+
+13. Carl Sagan (68)
+52. Saadi Shirazi (56)
+
+20. Æthelstan (64)
+45. Bronisław Malinowski (57)
+
+5. Chiang Kai-shek (75)
+60. Klaus Kinski (54)
+
+28. Michelangelo (61)
+37. Carl von Clausewitz (59)
+
+12. Karl Popper (68)
+53. Herodotus (56)
+
+21. Maurice Ravel (64)
+44. Premchand (57)
+
+2. Muammar Gaddafi (80)
+63. Diponegoro (53)
+
+31. Humphry Davy (61)
+34. Menelik II (60)
+
+15. James Cagney (67)
+50. Peter Debye (56)
+
+18. John Wesley (64)
+47. P. T. Barnum (57)
+
+7. Pol Pot (73)
+58. Khadija bint Khuwaylid (54)
+
+26. Al-Farabi (62)
+39. Uthman (59)
+
+10. Katharine Hepburn (69)
+55. Thomas Young (scientist) (55)
+
+23. Federico Fellini (63)
+42. Edsger W. Dijkstra (58)
+
+3. David Bowie (80)
+62. Ouyang Xiu (53)
+
+30. Paramahansa Yogananda (61)
+35. Irenaeus (60)
+
+14. Ibn al-Haytham (67)
+51. Mikhail Lomonosov (56)
+
+19. Nebuchadnezzar II (64)
+46. Hammurabi (57)
+
+6. Thomas Aquinas (73)
+59. Hermann von Helmholtz (54)
+
+27. Averroes (62)
+38. J. M. Coetzee (59)
+
+11. Johann Sebastian Bach (69)
+54. Kurt Lewin (55)
+
+22. Narmer (63)
+43. M. C. Escher (58)
+
+--REGION 2--
+1. The Beatles (85)
+64. Gustav Kirchhoff (52)
+
+32. Abdul Hamid II (60)
+33. Ahmad ibn Hanbal (60)
+
+16. Adam Smith (66)
+49. Benny Goodman (56)
+
+17. John Churchill, 1st Duke of Marlborough (65)
+48. Kabir (57)
+
+8. James Joyce (72)
+57. Tukaram (54)
+
+25. Buckminster Fuller (62)
+40. Basil of Caesarea (58)
+
+9. Charles Darwin (70)
+56. Cesare Borgia (55)
+
+24. Sojourner Truth (63)
+41. Gustave Courbet (58)
+
+4. Napoleon III (77)
+61. Henri Rousseau (53)
+
+29. Louis B. Mayer (61)
+36. Robert Koch (59)
+
+13. J. R. R. Tolkien (67)
+52. Aetius (magister militum) (56)
+
+20. Mario Vargas Llosa (64)
+45. Al-Hakim bi-Amr Allah (57)
+
+5. Dwayne Johnson (74)
+60. Wilhelm Röntgen (54)
+
+28. Toussaint Louverture (62)
+37. William Hogarth (59)
+
+12. Max Weber (68)
+53. Ivan Asen II (55)
+
+21. B. R. Ambedkar (63)
+44. Madhvacharya (57)
+
+2. LeBron James (85)
+63. Yemelyan Pugachev (52)
+
+31. Kahlil Gibran (61)
+34. Francis Galton (60)
+
+15. Richard Wagner (66)
+50. Lê Lợi (56)
+
+18. Ānanda (65)
+47. Tewodros II (57)
+
+7. Constantine the Great (72)
+58. Ulugh Beg (54)
+
+26. Edgar Allan Poe (62)
+39. Lu Xun (58)
+
+10. Kwame Nkrumah (70)
+55. Thutmose I (55)
+
+23. Empress Dowager Cixi (63)
+42. Thucydides (58)
+
+3. Lee Kuan Yew (77)
+62. Franz Marc (53)
+
+30. Geoffrey Chaucer (61)
+35. William Herschel (59)
+
+14. Jane Addams (67)
+51. Cornelius Vanderbilt (56)
+
+19. Florence Nightingale (64)
+46. David Hilbert (57)
+
+6. Katy Perry (74)
+59. Hicham El Guerrouj (54)
+
+27. Pierre Bourdieu (62)
+38. Arthur Rimbaud (59)
+
+11. Ho Chi Minh (68)
+54. Sun Tzu (55)
+
+22. Frederick II, Holy Roman Emperor (63)
+43. Francis I of France (57)
+
+--REGION 3--
+1. Maximilien Robespierre (87)
+64. Dmitry Donskoy (52)
+
+32. Sappho (60)
+33. Sergei Korolev (60)
+
+16. Joe Louis (66)
+49. William Wordsworth (56)
+
+17. Ray Bradbury (65)
+48. Yohannes IV (57)
+
+8. Stephen Hawking (71)
+57. Han Yu (55)
+
+25. Francis Bacon (62)
+40. Herbert von Karajan (58)
+
+9. James Brown (70)
+56. Gerolamo Cardano (55)
+
+24. Franz Schubert (63)
+41. Ignaz Semmelweis (58)
+
+4. Gregory Peck (76)
+61. Frances Marion (53)
+
+29. John Keats (61)
+36. Zhuge Liang (59)
+
+13. Éamon de Valera (67)
+52. Zhu Xi (56)
+
+20. Suharto (64)
+45. Clement of Rome (57)
+
+5. Joseph Conrad (75)
+60. Trần Thánh Tông (54)
+
+28. Buster Keaton (61)
+37. Margaret Mead (59)
+
+12. Miles Davis (68)
+53. Sergey Prokudin-Gorsky (56)
+
+21. Shivaji (64)
+44. Ramesses III (57)
+
+2. Thomas Jefferson (82)
+63. Qu Yuan (53)
+
+31. Ben Jonson (61)
+34. Hayreddin Barbarossa (60)
+
+15. Adi Shankara (66)
+50. Nellie Bly (56)
+
+18. Swami Vivekananda (65)
+47. Edmond Halley (57)
+
+7. Francis Ford Coppola (72)
+58. Batu Khan (54)
+
+26. Frank Capra (62)
+39. Marit Bjørgen (58)
+
+10. Charles Sanders Peirce (70)
+55. Catullus (55)
+
+23. Robert Clive (63)
+42. Aeschylus (58)
+
+3. Nelson Mandela (78)
+62. Charles Algernon Parsons (53)
+
+30. Joan Crawford (61)
+35. Ernst Haeckel (60)
+
+14. Suzanne Lenglen (67)
+51. Johannes Gutenberg (56)
+
+19. Sergei Rachmaninoff (64)
+46. Gottlob Frege (57)
+
+6. Immanuel Kant (73)
+59. Lucretius (54)
+
+27. Winsor McCay (62)
+38. Camille Pissarro (59)
+
+11. Husayn ibn Ali (69)
+54. Robert Burns Woodward (55)
+
+22. John Cage (63)
+43. Ghalib (57)
+
+--REGION 4--
+1. Martin Luther King Jr. (87)
+64. Draco (lawgiver) (52)
+
+32. Jesse Owens (60)
+33. Antonio López de Santa Anna (60)
+
+16. Philip Glass (66)
+49. Louis Sullivan (56)
+
+17. Rosa Luxemburg (65)
+48. Nadine Gordimer (57)
+
+8. Georg Wilhelm Friedrich Hegel (71)
+57. Constantin Brâncuși (55)
+
+25. David Livingstone (62)
+40. Edgar Degas (58)
+
+9. Satyajit Ray (70)
+56. François Villon (55)
+
+24. William Wilberforce (63)
+41. Dōgen (58)
+
+4. David Lloyd George (76)
+61. Kourtney Kardashian (53)
+
+29. William Faulkner (61)
+36. Pedro Álvares Cabral (59)
+
+13. Philip II of Spain (67)
+52. Abd al-Rahman I (56)
+
+20. Felix Mendelssohn (64)
+45. John Wycliffe (57)
+
+5. Babe Ruth (75)
+60. Giovanni Boccaccio (54)
+
+28. Seleucus I Nicator (61)
+37. Jerome (59)
+
+12. Agatha Christie (68)
+53. Samuel Goldwyn (56)
+
+21. James Watson (64)
+44. Francisco Goya (57)
+
+2. Fidel Castro (82)
+63. Valmiki (53)
+
+31. Basil II (61)
+34. Mary I of England (60)
+
+15. Samuel Johnson (66)
+50. Jean Renoir (56)
+
+18. Marvin Gaye (65)
+47. Diego Rivera (57)
+
+7. Malcolm X (72)
+58. Jean le Rond d'Alembert (54)
+
+26. Tutankhamun (62)
+39. Gregory of Nazianzus (58)
+
+10. John C. Calhoun (70)
+55. Vasubandhu (55)
+
+23. Erich Honecker (63)
+42. Kazimir Malevich (58)
+
+3. Martin Scorsese (78)
+62. Frederick William I of Prussia (53)
+
+30. Georgy Zhukov (61)
+35. Ferdinand I, Holy Roman Emperor (60)
+
+14. Harriet Tubman (67)
+51. Amda Seyon I (56)
+
+19. Fridtjof Nansen (64)
+46. Al-Shafi'i (57)
+
+6. Nicholas II of Russia (73)
+59. Niels Henrik Abel (54)
+
+27. Alexander II of Russia (62)
+38. Andrea Palladio (59)
+
+11. Jeff Bezos (69)
+54. Roger II of Sicily (55)
+
+22. Johannes Kepler (63)
+43. Henry Moore (57)
+
+--REGION 5--
+1. Tom Brady (91)
+64. Huiyuan (Buddhist) (52)
+
+32. J. P. Morgan (60)
+33. Cardinal Mazarin (60)
+
+16. Salvador Allende (66)
+49. Svatopluk I of Moravia (56)
+
+17. Pedro I of Brazil (65)
+48. Ken Saro-Wiwa (57)
+
+8. Akbar (71)
+57. Terence (55)
+
+25. Louis I of Hungary (62)
+40. Henry V of England (58)
+
+9. Sarah Bernhardt (70)
+56. Antônio Carlos Jobim (55)
+
+24. Niels Bohr (63)
+41. Umberto Eco (58)
+
+4. Hugo Chávez (76)
+61. Babak Khorramdin (54)
+
+29. Dietrich Bonhoeffer (61)
+36. Adam Mickiewicz (59)
+
+13. Slobodan Milošević (68)
+52. Niccolò Paganini (56)
+
+20. William James (64)
+45. John of Damascus (57)
+
+5. Nikita Khrushchev (75)
+60. Mirabai (54)
+
+28. Michel Platini (61)
+37. Anton Bruckner (59)
+
+12. Catherine the Great (68)
+53. Andreas Vesalius (56)
+
+21. Al-Ghazali (64)
+44. Charles Lyell (57)
+
+2. Vladimir Lenin (81)
+63. Chrétien de Troyes (53)
+
+31. Arthur Miller (61)
+34. Babe Didrikson Zaharias (60)
+
+15. Joseph Priestley (66)
+50. Santiago Ramón y Cajal (56)
+
+18. Edward Teller (65)
+47. Jonas Salk (57)
+
+7. Louis XV (72)
+58. Boris I of Bulgaria (54)
+
+26. Leonhard Euler (62)
+39. Cardinal Richelieu (59)
+
+10. Thomas Paine (69)
+55. Benedict of Nursia (55)
+
+23. Marcel Duchamp (63)
+42. Aisha (58)
+
+3. Ezra Pound (79)
+62. Gaspard Monge (53)
+
+30. Johann Gottlieb Fichte (61)
+35. Pope Gregory VII (60)
+
+14. Mark Twain (67)
+51. John Bardeen (56)
+
+19. Pythagoras (64)
+46. Michel de Montaigne (57)
+
+6. Alfred Hitchcock (73)
+59. Yaroslav the Wise (54)
+
+27. Porfirio Díaz (62)
+38. Võ Nguyên Giáp (59)
+
+11. Arthur C. Clarke (69)
+54. Henry Cavendish (55)
+
+22. Marco Polo (63)
+43. Max Planck (58)
+
+--REGION 6--
+1. Ulysses S. Grant (86)
+64. Li Shizhen (52)
+
+32. Gabriel Fauré (60)
+33. Marius Petipa (60)
+
+16. Margaret Court (66)
+49. Amerigo Vespucci (56)
+
+17. Louis Armstrong (65)
+48. Sviatoslav Richter (57)
+
+8. Black Sabbath (71)
+57. Ivan III of Moscow (55)
+
+25. Archimedes (62)
+40. Bonaventure (58)
+
+9. Wright brothers (70)
+56. Seonjo of Joseon (55)
+
+24. José Martí (63)
+41. Hastings Banda (58)
+
+4. Richard Nixon (77)
+61. Mehmed IV (53)
+
+29. Saint Nicholas (61)
+36. Nadia Comăneci (59)
+
+13. Wilhelm Wundt (67)
+52. Linus Torvalds (56)
+
+20. Pedro II of Brazil (64)
+45. Modest Mussorgsky (57)
+
+5. Albert Einstein (74)
+60. Alfred Radcliffe-Brown (54)
+
+28. Euripides (61)
+37. Paul Dirac (59)
+
+12. Bill Cosby (68)
+53. Abu Nuwas (56)
+
+21. Fred Astaire (64)
+44. Francisco Pizarro (57)
+
+2. Mikhail Gorbachev (83)
+63. Auguste and Louis Lumière (52)
+
+31. Mae West (61)
+34. Clement of Alexandria (60)
+
+15. Mother Teresa (66)
+50. Vittorio De Sica (56)
+
+18. John Marshall (65)
+47. Filippo Brunelleschi (57)
+
+7. Aristotle (72)
+58. Ingemar Stenmark (54)
+
+26. John Chrysostom (62)
+39. Bal Gangadhar Tilak (58)
+
+10. Michel Foucault (70)
+55. Hokusai (55)
+
+23. Vladimir Vysotsky (63)
+42. Robert Schumann (58)
+
+3. Meryl Streep (78)
+62. André-Marie Ampère (53)
+
+30. Ravi Shankar (61)
+35. Hans Bethe (59)
+
+14. Stephen King (67)
+51. Nurhaci (56)
+
+19. Billy Wilder (64)
+46. Nostradamus (57)
+
+6. Woodrow Wilson (74)
+59. Pierre Curie (54)
+
+27. Walt Whitman (62)
+38. Henry IV of France (59)
+
+11. George Soros (68)
+54. Georges Seurat (55)
+
+22. Isabella I of Castile (63)
+43. Ferdinand de Saussure (57)
+
+--REGION 7--
+1. Cristiano Ronaldo (91)
+64. Jean Froissart (52)
+
+32. Ellen Johnson Sirleaf (60)
+33. Isambard Kingdom Brunel (60)
+
+16. Andrew Carnegie (66)
+49. D. W. Griffith (56)
+
+17. Jorge Luis Borges (65)
+48. Antonie van Leeuwenhoek (57)
+
+8. Osama bin Laden (71)
+57. Fritz Lang (55)
+
+25. John D. Rockefeller (62)
+40. Luciano Pavarotti (58)
+
+9. David Lynch (70)
+56. William Golding (55)
+
+24. D. H. Lawrence (63)
+41. Sigismund, Holy Roman Emperor (58)
+
+4. Benjamin Franklin (76)
+61. Yu the Great (54)
+
+29. Henri Poincaré (61)
+36. Sargon of Akkad (59)
+
+13. John Stuart Mill (68)
+52. Taejo of Joseon (56)
+
+20. Hergé (64)
+45. Ramanuja (57)
+
+5. Frederick Douglass (75)
+60. Louis Daguerre (54)
+
+28. Georges Cuvier (61)
+37. Raymond Cattell (59)
+
+12. Harvey Milk (68)
+53. Lope de Vega (56)
+
+21. Xuanzang (64)
+44. Władysław II Jagiełło (57)
+
+2. Douglas MacArthur (81)
+63. Mir Taqi Mir (53)
+
+31. Marx Brothers (61)
+34. Maxim Gorky (60)
+
+15. Avicenna (66)
+50. George Stephenson (56)
+
+18. Otto the Great (65)
+47. George Eliot (57)
+
+7. Desmond Tutu (72)
+58. Robert Fulton (54)
+
+26. Srinivasa Ramanujan (62)
+39. Gordie Howe (59)
+
+10. Jack Nicklaus (69)
+55. Jacobus Arminius (55)
+
+23. Clark Gable (63)
+42. Cato the Elder (58)
+
+3. Madonna (79)
+62. Pierre de Fermat (53)
+
+30. Edward Weston (61)
+35. Nzinga of Ndongo and Matamba (60)
+
+14. Howard Hughes (67)
+51. Nadia Boulanger (56)
+
+19. Kim Il Sung (64)
+46. Hendrik Lorentz (57)
+
+6. Otto von Bismarck (73)
+59. Yasunari Kawabata (54)
+
+27. Herbert Spencer (62)
+38. Ida Lupino (59)
+
+11. Aleister Crowley (69)
+54. Sher Shah Suri (55)
+
+22. Mobutu Sese Seko (63)
+43. Piet Mondrian (57)
+
+--REGION 8--
+1. Erwin Rommel (86)
+64. Carl Theodor Dreyer (52)
+
+32. Arnold Schoenberg (60)
+33. Eric Hobsbawm (60)
+
+16. Hank Aaron (66)
+49. Alfred Thayer Mahan (56)
+
+17. Hermann Göring (65)
+48. Edward Thorndike (57)
+
+8. Charlemagne (71)
+57. Gediminas (55)
+
+25. Victor Hugo (62)
+40. Juan Ponce de León (58)
+
+9. Leonard Bernstein (70)
+56. Matsuo Bashō (55)
+
+24. George Curzon, 1st Marquess Curzon of Kedleston (63)
+41. Seneca the Younger (58)
+
+4. Neymar (77)
+61. Jeongjo of Joseon (53)
+
+29. Frantz Fanon (61)
+36. Simone de Beauvoir (59)
+
+13. Kylian Mbappé (67)
+52. Charles A. Beard (56)
+
+20. Norman Borlaug (64)
+45. Sima Qian (57)
+
+5. Isaac Asimov (74)
+60. Menander (54)
+
+28. Abbas Kiarostami (61)
+37. Padmasambhava (59)
+
+12. Wilhelm II, German Emperor (68)
+53. Svante Arrhenius (56)
+
+21. Humphrey Bogart (64)
+44. Jonathan Edwards (theologian) (57)
+
+2. Virginia Woolf (83)
+63. Túpac Amaru (52)
+
+31. Richard Pryor (61)
+34. Ronald Fisher (60)
+
+15. Alfred North Whitehead (66)
+50. Jeanne Moreau (56)
+
+18. Qianlong Emperor (65)
+47. Louis the Pious (57)
+
+7. Mary, mother of Jesus (72)
+58. Josiah Wedgwood (54)
+
+26. Francis of Assisi (62)
+39. Amr ibn al-As (58)
+
+10. Alexander Graham Bell (70)
+55. Johnny Weissmuller (55)
+
+23. Ida Tarbell (63)
+42. Alexander Pushkin (58)
+
+3. Amelia Earhart (78)
+62. Hanno the Navigator (53)
+
+30. Wole Soyinka (61)
+35. Oscar Niemeyer (59)
+
+14. Sukarno (67)
+51. Ögedei Khan (56)
+
+19. Robert Louis Stevenson (64)
+46. Robert Frost (57)
+
+6. Muhammad ibn Abd al-Wahhab (74)
+59. Henry Fielding (54)
+
+27. Jacques-Louis David (62)
+38. Isoroku Yamamoto (59)
+
+11. Yukio Mishima (68)
+54. François Rabelais (55)
+
+22. Ralph Waldo Emerson (63)
+43. Heraclitus (57)
+
+--REGION 9--
+1. Charles de Gaulle (93)
+64. Vlad and Niki (51)
+
+32. Sergei Prokofiev (60)
+33. Raphael (60)
+
+16. Gilbert and Sullivan (65)
+49. Louis IX of France (56)
+
+17. Saladin (65)
+48. Frederick Sanger (56)
+
+8. Clement Attlee (71)
+57. Jami (55)
+
+25. El Greco (62)
+40. Kevin Hart (58)
+
+9. Susan B. Anthony (70)
+56. Ferdowsi (55)
+
+24. Emperor Xuanzong of Tang (63)
+41. Béla IV of Hungary (58)
+
+4. Barbra Streisand (75)
+61. Leo Baekeland (54)
+
+29. Ibn Khaldun (61)
+36. Donald Knuth (59)
+
+13. Atal Bihari Vajpayee (68)
+52. Pope Urban II (56)
+
+20. Bede (64)
+45. Konrad Lorenz (57)
+
+5. Selena Gomez (75)
+60. Gro Harlem Brundtland (54)
+
+28. Georges Clemenceau (61)
+37. Albrecht Dürer (59)
+
+12. Rosa Parks (68)
+53. Man Ray (56)
+
+21. Cyrus the Great (64)
+44. Menander I (57)
+
+2. Benito Mussolini (80)
+63. Rudolf Diesel (53)
+
+31. Eleanor of Aquitaine (61)
+34. Antonio Gramsci (60)
+
+15. José Rizal (67)
+50. Georges Lemaître (56)
+
+18. Edmund Husserl (65)
+47. Leon Battista Alberti (57)
+
+7. Alexander Hamilton (73)
+58. Mikhail Sholokhov (54)
+
+26. Giacomo Casanova (62)
+39. Christopher Wren (59)
+
+10. Judy Garland (69)
+55. Kazuo Ishiguro (55)
+
+23. Theodosius I (63)
+42. Theodora (wife of Justinian I) (58)
+
+3. Margaret Thatcher (79)
+62. Abu Muslim (53)
+
+30. Irving Thalberg (61)
+35. Buddy Holly (60)
+
+14. Will Smith (67)
+51. Alfred, Lord Tennyson (56)
+
+19. Pierre-Joseph Proudhon (64)
+46. Vitus Bering (57)
+
+6. Eddy Merckx (73)
+59. Louis de Funès (54)
+
+27. Cecil Rhodes (62)
+38. Jonathan Swift (59)
+
+11. Amitabh Bachchan (69)
+54. William Henry Bragg (55)
+
+22. Muhammad Iqbal (63)
+43. Florence Griffith Joyner (58)
+
+--REGION 10--
+1. Lady Gaga (85)
+64. Karl Weierstrass (52)
+
+32. Robert Burns (60)
+33. Edward Drinker Cope (60)
+
+16. Richard Feynman (66)
+49. Li Ka-shing (56)
+
+17. Fyodor Dostoevsky (65)
+48. Marcel Proust (57)
+
+8. Chris Brown (71)
+57. Jean Gabin (54)
+
+25. Luís de Camões (62)
+40. The Supremes (58)
+
+9. Robert A. Heinlein (70)
+56. Augustus II the Strong (55)
+
+24. Sri Aurobindo (63)
+41. James Watt (58)
+
+4. Stanley Kubrick (77)
+61. Stefan Banach (53)
+
+29. Laurel and Hardy (61)
+36. Babur (59)
+
+13. Rumi (67)
+52. Atahualpa (56)
+
+20. Nizami Ganjavi (64)
+45. Joseph-Louis Lagrange (57)
+
+5. Arthur Schopenhauer (74)
+60. Diophantus (54)
+
+28. Barbara McClintock (62)
+37. Samuel Morse (59)
+
+12. Thomas More (68)
+53. Aryabhata (55)
+
+21. Leni Riefenstahl (63)
+44. Claudette Colbert (57)
+
+2. Søren Kierkegaard (84)
+63. Estée Lauder (businesswoman) (52)
+
+31. Sophia Loren (61)
+34. Vivien Leigh (60)
+
+15. John Wayne (66)
+50. Dhyan Chand (56)
+
+18. Józef Piłsudski (65)
+47. Leif Erikson (57)
+
+7. Marlon Brando (72)
+58. Charles Perrault (54)
+
+26. Lucille Ball (62)
+39. Mary Pickford (58)
+
+10. Roman Polanski (70)
+55. Konrad Zuse (55)
+
+23. Hans Holbein the Younger (63)
+42. Dorothy Hodgkin (58)
+
+3. Sigmund Freud (77)
+62. Modu Chanyu (53)
+
+30. Ellen DeGeneres (61)
+35. John Singer Sargent (59)
+
+14. Jean-Luc Godard (67)
+51. Sergei Eisenstein (56)
+
+19. Juan Manuel Fangio (64)
+46. Machado de Assis (57)
+
+6. Alexander von Humboldt (74)
+59. Banjo Paterson (54)
+
+27. Ja'far al-Sadiq (62)
+38. Béla Bartók (59)
+
+11. Dylan Thomas (68)
+54. Murray Gell-Mann (55)
+
+22. Lise Meitner (63)
+43. Karl Barth (57)
+
+--REGION 11--
+1. Joseph Stalin (88)
+64. Joseph Louis Gay-Lussac (52)
+
+32. Andrei Tarkovsky (60)
+33. Ivan the Terrible (60)
+
+16. Billy Graham (66)
+49. Ginger Rogers (56)
+
+17. Walt Disney (65)
+48. A. C. Bhaktivedanta Swami Prabhupada (57)
+
+8. Kareem Abdul-Jabbar (71)
+57. Ernst Mach (55)
+
+25. Jean-Auguste-Dominique Ingres (62)
+40. Prithviraj Chauhan (58)
+
+9. The Weeknd (70)
+56. Pedro Calderón de la Barca (55)
+
+24. Henri Bergson (63)
+41. Tecumseh (58)
+
+4. Jennifer Lopez (76)
+61. Andrey Kolmogorov (54)
+
+29. Paul Klee (61)
+36. Gracchi brothers (59)
+
+13. Juan Perón (67)
+52. Julio Iglesias (56)
+
+20. John A. Macdonald (64)
+45. Eduard Shevardnadze (57)
+
+5. James Stewart (75)
+60. Sándor Petőfi (54)
+
+28. Arthur Conan Doyle (61)
+37. Mark Spitz (59)
+
+12. Akira Kurosawa (68)
+53. Louis XI (56)
+
+21. Pope John XXIII (64)
+44. Jean Racine (57)
+
+2. Dwight D. Eisenhower (82)
+63. Harsha (53)
+
+31. Ella Fitzgerald (61)
+34. Auguste Comte (60)
+
+15. Aretha Franklin (66)
+50. Euclid (56)
+
+18. C. S. Lewis (65)
+47. Vitruvius (57)
+
+7. Jomo Kenyatta (72)
+58. Zhang Qian (54)
+
+26. Denis Diderot (62)
+39. Nasir al-Din al-Tusi (58)
+
+10. Shakira (69)
+55. Hans Krebs (biochemist) (55)
+
+23. George III (63)
+42. Erik Erikson (58)
+
+3. Abraham Lincoln (78)
+62. Stéphane Mallarmé (53)
+
+30. Justinian I (61)
+35. Honoré de Balzac (60)
+
+14. Demosthenes (67)
+51. Ed Sullivan (56)
+
+19. Elia Kazan (64)
+46. José Saramago (57)
+
+6. Wilt Chamberlain (73)
+59. Gajah Mada (54)
+
+27. Marquis de Sade (62)
+38. Yongle Emperor (59)
+
+11. Hayao Miyazaki (69)
+54. Henry Dunant (55)
+
+22. Jean-Paul Sartre (63)
+43. Aung San (57)
+
+--REGION 12--
+1. Barack Obama (87)
+64. Daniel of Galicia (52)
+
+32. Plotinus (60)
+33. Al Capone (60)
+
+16. Frank Lloyd Wright (66)
+49. Toshiro Mifune (56)
+
+17. Carl Linnaeus (65)
+48. Jin Yong (57)
+
+8. F. Scott Fitzgerald (71)
+57. Hong Xiuquan (55)
+
+25. Nero (62)
+40. Charli D'Amelio (58)
+
+9. Vincent van Gogh (70)
+56. Sebastião José de Carvalho e Melo, 1st Marquis of Pombal (55)
+
+24. Antonín Dvořák (63)
+41. Paco de Lucía (58)
+
+4. John Adams (76)
+61. Pierre Corneille (53)
+
+29. Charles K. Kao (61)
+36. Gerhard Richter (59)
+
+13. Alfred the Great (67)
+52. Dietrich Fischer-Dieskau (56)
+
+20. Greta Garbo (64)
+45. Alejo Carpentier (57)
+
+5. Charles V, Holy Roman Emperor (74)
+60. Seymour Cray (54)
+
+28. Samuel Taylor Coleridge (61)
+37. Xenophon (59)
+
+12. Augusto Pinochet (68)
+53. Hafez (56)
+
+21. Anne Frank (64)
+44. William of Ockham (57)
+
+2. Elvis Presley (82)
+63. Phidias (53)
+
+31. Edward Said (61)
+34. Carl Gustaf Emil Mannerheim (60)
+
+15. Julius Caesar (66)
+50. Miguel Hidalgo y Costilla (56)
+
+18. Abd Allah al-Mahdi Billah (65)
+47. Tabinshwehti (57)
+
+7. Robert E. Lee (72)
+58. Theodor Mommsen (54)
+
+26. Tipu Sultan (62)
+39. Alexander Suvorov (58)
+
+10. Mahathir Mohamad (70)
+55. Mohammad Zahir Shah (55)
+
+23. Timur (63)
+42. Montesquieu (58)
+
+3. Augustin-Jean Fresnel (78)
+62. Arthur Cayley (53)
+
+30. Qin Shi Huang (61)
+35. Vasco da Gama (60)
+
+14. Leonardo da Vinci (67)
+51. Ne Win (56)
+
+19. Khalid ibn al-Walid (64)
+46. Jean-Baptiste Lamarck (57)
+
+6. John Maynard Keynes (73)
+59. Lao She (54)
+
+27. Josephine Baker (62)
+38. Jackson Pollock (59)
+
+11. James Cameron (69)
+54. Afonso I of Portugal (55)
+
+22. Joan Baez (63)
+43. Lillian Gish (57)
+
+--REGION 13--
+1. Donald Trump (92)
+64. Syama Sastri (51)
+
+32. Hugo Grotius (60)
+33. Thomas Hobbes (60)
+
+16. Ashurbanipal (65)
+49. Leopold von Ranke (56)
+
+17. Rabindranath Tagore (65)
+48. André Gide (56)
+
+8. Demi Lovato (71)
+57. Boudica (55)
+
+25. Rachel Carson (62)
+40. Joseph Dalton Hooker (58)
+
+9. António de Oliveira Salazar (70)
+56. Alberto Giacometti (55)
+
+24. Thomas Cranmer (63)
+41. Kenneth Kaunda (58)
+
+4. Benazir Bhutto (76)
+61. Friedrich Wöhler (54)
+
+29. Plato (61)
+36. Grace Hopper (59)
+
+13. Igor Stravinsky (68)
+52. Mansa Musa (56)
+
+20. Salman Rushdie (64)
+45. Svetlana Alexievich (57)
+
+5. Ayrton Senna (75)
+60. Jamsetji Tata (54)
+
+28. Margot Fonteyn (61)
+37. Mahavira (59)
+
+12. Joseph Goebbels (68)
+53. Tigranes the Great (56)
+
+21. George Berkeley (64)
+44. Michelangelo Antonioni (57)
+
+2. Napoleon (81)
+63. Montgolfier brothers (53)
+
+31. John Hunyadi (61)
+34. Afonso de Albuquerque (60)
+
+15. Prince Eugene of Savoy (67)
+50. Ivan Pavlov (56)
+
+18. Margaret Atwood (65)
+47. Mithridates VI Eupator (57)
+
+7. Martin Luther (73)
+58. Antiochus III the Great (54)
+
+26. Grace Kelly (62)
+39. Ptolemy (59)
+
+10. Hadrian (69)
+55. Heinrich Hertz (55)
+
+23. Manmohan Singh (63)
+42. Stefan Dušan (58)
+
+3. Bobby Fischer (79)
+62. Jiajing Emperor (53)
+
+30. Chandragupta Maurya (61)
+35. Rafael Trujillo (60)
+
+14. Maimonides (67)
+51. Stephen Foster (56)
+
+19. Teresa of Ávila (64)
+46. Chandragupta II (57)
+
+6. Friedrich Hayek (73)
+59. Eisaku Satō (54)
+
+27. Stephen Jay Gould (62)
+38. Kurt Gödel (59)
+
+11. Henry Clay (69)
+54. Vilfredo Pareto (55)
+
+22. George Frideric Handel (63)
+43. William I, German Emperor (58)
+
+--REGION 14--
+1. Bob Dylan (85)
+64. Suryavarman II (52)
+
+32. Jabir ibn Hayyan (60)
+33. Paracelsus (60)
+
+16. Alan Turing (66)
+49. Benoit Mandelbrot (56)
+
+17. Osman I (65)
+48. Josephus (57)
+
+8. Voltaire (71)
+57. Sadaharu Oh (54)
+
+25. Robert Walpole (62)
+40. Saul Bellow (58)
+
+9. Willie Mays (70)
+56. David Sarnoff (55)
+
+24. J. Edgar Hoover (63)
+41. Federico García Lorca (58)
+
+4. Joseph Lister (77)
+61. Shang Yang (53)
+
+29. Robert Peel (61)
+36. Zoroaster (59)
+
+13. Anselm of Canterbury (67)
+52. Fernando Álvarez de Toledo, 3rd Duke of Alba (56)
+
+20. Julie Andrews (64)
+45. Pāṇini (57)
+
+5. Ali (74)
+60. Eli Whitney (54)
+
+28. Leo Tolstoy (61)
+37. Louis Riel (59)
+
+12. Karlheinz Stockhausen (68)
+53. Arthur Rubinstein (55)
+
+21. John Milton (63)
+44. Charles Baudelaire (57)
+
+2. Michael Jackson (84)
+63. Moctezuma I (52)
+
+31. John Knox (61)
+34. Mikhail Bakunin (60)
+
+15. Walter Scott (66)
+50. Astrid Lindgren (56)
+
+18. Juan Carlos I (65)
+47. Grigori Rasputin (57)
+
+7. George Bernard Shaw (72)
+58. Ludwig Boltzmann (54)
+
+26. James Cook (62)
+39. Carlos Slim (58)
+
+10. Haile Selassie (70)
+55. Aleksandr Karelin (55)
+
+23. Charles Babbage (63)
+42. Arius (58)
+
+3. Elon Musk (77)
+62. Jacobus Henricus van 't Hoff (53)
+
+30. Mikhail Lermontov (61)
+35. Osamu Tezuka (59)
+
+14. Emma Goldman (67)
+51. Alexander Pope (56)
+
+19. Pope Gregory I (64)
+46. Will Eisner (57)
+
+6. Edmund Burke (74)
+59. Mohammad-Reza Shajarian (54)
+
+27. Carol Burnett (62)
+38. Orhan Pamuk (59)
+
+11. Marie Antoinette (68)
+54. Vladimir the Great (55)
+
+22. Marie Curie (63)
+43. Martha Graham (57)
+
+--REGION 15--
+1. Rafael Nadal (89)
+64. Khabane Lame (52)
+
+32. Omar Khayyam (60)
+33. Guru Gobind Singh (60)
+
+16. Theodor W. Adorno (66)
+49. Gaudapada (56)
+
+17. Carl Lewis (65)
+48. Antonin Artaud (57)
+
+8. Nikola Tesla (71)
+57. Wang Wei (Tang dynasty) (55)
+
+25. Pope Pius IX (62)
+40. Hernando de Soto (58)
+
+9. Magic Johnson (70)
+56. Hulagu Khan (55)
+
+24. Andrei Sakharov (63)
+41. Nathaniel Hawthorne (58)
+
+4. David Hume (76)
+61. Taejo of Goryeo (54)
+
+29. Hongwu Emperor (61)
+36. William the Silent (59)
+
+13. Marilyn Monroe (67)
+52. Ngũgĩ wa Thiong'o (56)
+
+20. Maya Angelou (64)
+45. Rainilaiarivony (57)
+
+5. Josip Broz Tito (75)
+60. Askia Muhammad I (54)
+
+28. Ismail Kadare (61)
+37. Homer (59)
+
+12. Janis Joplin (68)
+53. Carl Benz (56)
+
+21. Caravaggio (64)
+44. Heraclius (57)
+
+2. Eminem (82)
+63. Muslim ibn al-Hajjaj (53)
+
+31. David Lean (61)
+34. Henri Matisse (60)
+
+15. Simón Bolívar (66)
+50. Noah Webster (56)
+
+18. Shane Warne (65)
+47. Henryk Sienkiewicz (57)
+
+7. Oprah Winfrey (72)
+58. Halldór Laxness (54)
+
+26. Antoine Lavoisier (62)
+39. Shah Jahan (59)
+
+10. Ashoka (69)
+55. Spartacus (55)
+
+23. Enid Blyton (63)
+42. Ignatius of Loyola (58)
+
+3. Queen (band) (79)
+62. Vercingetorix (53)
+
+30. Ole Einar Bjørndalen (61)
+35. Robert Falcon Scott (60)
+
+14. Jack Nicholson (67)
+51. Amir Khusrau (56)
+
+19. Booker T. Washington (64)
+46. Astor Piazzolla (57)
+
+6. Subhas Chandra Bose (73)
+59. Kalidasa (54)
+
+27. Václav Havel (62)
+38. Kangxi Emperor (59)
+
+11. Paul Gauguin (69)
+54. Max Ernst (55)
+
+22. Sugar Ray Robinson (63)
+43. Erwin Schrödinger (57)
+
+--REGION 16--
+1. Ion Antonescu (87)
+64. Amedeo Avogadro (52)
+
+32. Pompey (60)
+33. Peter Kropotkin (60)
+
+16. Corazon Aquino (66)
+49. Naresuan (56)
+
+17. C. V. Raman (65)
+48. Joseph Pulitzer (57)
+
+8. Milton Friedman (71)
+57. Muhammad Ahmad (55)
+
+25. Hypatia (62)
+40. Abraham Maslow (58)
+
+9. John Ford (70)
+56. Lorenzo de' Medici (55)
+
+24. Confucius (63)
+41. Philip Johnson (58)
+
+4. Francisco Franco (76)
+61. Ahmad al-Mansur (53)
+
+29. Saint George (61)
+36. Oda Nobunaga (59)
+
+13. Linus Pauling (67)
+52. Sonja Henie (56)
+
+20. I. M. Pei (64)
+45. Celia Cruz (57)
+
+5. Charlie Chaplin (74)
+60. Marie Tharp (54)
+
+28. Josiah Willard Gibbs (61)
+37. Rudolph Valentino (59)
+
+12. Frédéric Chopin (68)
+53. Raymond Chandler (56)
+
+21. Manuel I Komnenos (64)
+44. Harold Urey (57)
+
+2. Mohammad Reza Pahlavi (83)
+63. Tughril (53)
+
+31. Kendall Jenner (61)
+34. Muhammad ibn Musa al-Khwarizmi (60)
+
+15. Christina, Queen of Sweden (66)
+50. Rani of Jhansi (56)
+
+18. Boris Pasternak (65)
+47. Pope Leo I (57)
+
+7. David Attenborough (72)
+58. Edmund Spenser (54)
+
+26. August Strindberg (62)
+39. Leopold II of Belgium (58)
+
+10. John, King of England (70)
+55. Leland Stanford (55)
+
+23. Shigeru Miyamoto (63)
+42. Guru Nanak (58)
+
+3. Charles Lindbergh (78)
+62. Ousmane Sembène (53)
+
+30. Teresa Teng (61)
+35. Georges Méliès (60)
+
+14. Roald Dahl (67)
+51. Eugenius Warming (56)
+
+19. Lata Mangeshkar (64)
+46. Joan Miró (57)
+
+6. Laurence Olivier (73)
+59. Frederick Jackson Turner (54)
+
+27. The Doors (62)
+38. Georges Danton (59)
+
+11. John Gielgud (68)
+54. Guillaume de Machaut (55)
+
+22. Enrico Fermi (63)
+43. Cai Lun (57)
+
+--REGION 17--
+1. Serena Williams (94)
+64. Like Nastya (51)
+
+32. Erich Ludendorff (60)
+33. Lauren Bacall (60)
+
+16. Toni Morrison (65)
+49. Tacitus (56)
+
+17. W. G. Grace (65)
+48. Edward Jenner (56)
+
+8. Maria Callas (71)
+57. Jack Kilby (55)
+
+25. Francis Drake (62)
+40. Miloš Forman (58)
+
+9. Greta Thunberg (71)
+56. Jorge Amado (55)
+
+24. William Thomson, 1st Baron Kelvin (62)
+41. Hans Christian Andersen (58)
+
+4. PewDiePie (75)
+61. Guru Dutt (54)
+
+29. Jack Kerouac (61)
+36. Frank Gehry (59)
+
+13. Tristan Tzara (68)
+52. Eugène Delacroix (56)
+
+20. Stephen the Great (64)
+45. Xerxes I (57)
+
+5. Karl Marx (75)
+60. Alexander Nevsky (54)
+
+28. Robert Hooke (61)
+37. Thomas Hardy (59)
+
+12. Akhenaten (68)
+53. Kirsten Flagstad (56)
+
+21. Hunter S. Thompson (64)
+44. Petrarch (57)
+
+2. Shinzo Abe (80)
+63. Wang Yangming (53)
+
+31. Howard Hawks (61)
+34. James Clerk Maxwell (60)
+
+15. Joni Mitchell (67)
+50. Alfred Tarski (56)
+
+18. Ludwig van Beethoven (64)
+47. Sejong the Great (57)
+
+7. Zinedine Zidane (73)
+58. Edwin Moses (54)
+
+26. Albert Speer (62)
+39. Haile Gebrselassie (59)
+
+10. Little Richard (69)
+55. Prithvi Narayan Shah (55)
+
+23. Jim Henson (63)
+42. Fela Kuti (58)
+
+3. The Rolling Stones (79)
+62. Zara Yaqob (53)
+
+30. Rita Hayworth (61)
+35. Muhammad of Ghor (60)
+
+14. Billie Holiday (67)
+51. John III Sobieski (56)
+
+19. Pablo Picasso (64)
+46. James Naismith (57)
+
+6. Jack Kirby (73)
+59. Sam Walton (54)
+
+27. Christopher Marlowe (62)
+38. Alexander Grothendieck (59)
+
+11. Neil Armstrong (69)
+54. Al-Zahrawi (55)
+
+22. John Locke (63)
+43. Peter Paul Rubens (58)
+
+--REGION 18--
+1. Taylor Swift (85)
+64. Tomás de Torquemada (52)
+
+32. Blaise Pascal (60)
+33. William Wyler (60)
+
+16. Bette Davis (66)
+49. Knut Hamsun (56)
+
+17. Nicolae Ceaușescu (65)
+48. Kanishka (57)
+
+8. Martina Navratilova (71)
+57. Eugène Ionesco (54)
+
+25. Themistocles (62)
+40. Thomas Robert Malthus (58)
+
+9. Frederick the Great (70)
+56. Su Shi (55)
+
+24. Zaha Hadid (63)
+41. Quang Trung (58)
+
+4. Mustafa Kemal Atatürk (77)
+61. Nicéphore Niépce (53)
+
+29. Georgia O'Keeffe (61)
+36. Samudragupta (59)
+
+13. Diocletian (67)
+52. Sophocles (56)
+
+20. Jane Austen (64)
+45. John B. Watson (57)
+
+5. Gamal Abdel Nasser (74)
+60. Ryūnosuke Akutagawa (54)
+
+28. The Velvet Underground (62)
+37. Edward Gibbon (59)
+
+12. Marc Chagall (68)
+53. D. S. Senanayake (55)
+
+21. Joseph Beuys (63)
+44. Kanō Jigorō (57)
+
+2. Ibn Taymiyyah (84)
+63. Sesshū Tōyō (52)
+
+31. Jim Brown (61)
+34. Helen Keller (60)
+
+15. Warren Buffett (66)
+50. Eduard Bernstein (56)
+
+18. Emmy Noether (65)
+47. J. M. W. Turner (57)
+
+7. Mary Magdalene (72)
+58. Hans Christian Ørsted (54)
+
+26. Ernest Shackleton (62)
+39. Ernest Lawrence (58)
+
+10. Franz Boas (70)
+55. Abel Tasman (55)
+
+23. Anna Wintour (63)
+42. Anna Akhmatova (58)
+
+3. Michael Jordan (77)
+62. Dude Perfect (53)
+
+30. Jean-Paul Marat (61)
+35. Wilma Rudolph (59)
+
+14. Yasser Arafat (67)
+51. Mikhail Baryshnikov (56)
+
+19. Domitian (64)
+46. Alaric I (57)
+
+6. Jean-Jacques Rousseau (74)
+59. Masaccio (54)
+
+27. Park Chung-hee (62)
+38. Valentina Tereshkova (59)
+
+11. Don Bradman (68)
+54. Xun Kuang (55)
+
+22. Nikolai Rimsky-Korsakov (63)
+43. Karl Pearson (57)
+
+--REGION 19--
+1. Roger Federer (88)
+64. Bumin Qaghan (52)
+
+32. Mohammad Mosaddegh (60)
+33. Plutarch (60)
+
+16. Zenobia (66)
+49. Hippocrates (56)
+
+17. Sigismund III Vasa (65)
+48. Brahmagupta (57)
+
+8. Horatio Nelson, 1st Viscount Nelson (71)
+57. Johannes Diderik van der Waals (55)
+
+25. Miriam Makeba (62)
+40. Bohdan Khmelnytsky (58)
+
+9. Trajan (70)
+56. Alfredo Stroessner (55)
+
+24. Tokugawa Ieyasu (63)
+41. Pliny the Elder (58)
+
+4. Alexander the Great (76)
+61. Aubrey Beardsley (53)
+
+29. Khosrow I (61)
+36. Ferenc Puskás (59)
+
+13. Mary Shelley (67)
+52. Stendhal (56)
+
+20. Claude Debussy (64)
+45. Chulalongkorn (57)
+
+5. Ingrid Bergman (75)
+60. Alessandro Volta (54)
+
+28. Abu Bakr al-Razi (61)
+37. Betty Friedan (59)
+
+12. Nestor Makhno (68)
+53. George Westinghouse (56)
+
+21. Tulsidas (64)
+44. Albert Ellis (57)
+
+2. Lyndon B. Johnson (82)
+63. Nikolai Lobachevsky (53)
+
+31. Abu Bakr (61)
+34. Karen Blixen (60)
+
+15. Heinrich Himmler (66)
+50. Donatello (56)
+
+18. Chinua Achebe (65)
+47. Chaitanya Mahaprabhu (57)
+
+7. Bernard Montgomery (72)
+58. Marcel Mauss (54)
+
+26. Frederick Barbarossa (62)
+39. Emperor Meiji (58)
+
+10. Wu Zetian (69)
+55. Yasujirō Ozu (55)
+
+23. Thales of Miletus (63)
+42. MrBeast (58)
+
+3. Mao Zedong (78)
+62. Georg Ohm (53)
+
+30. Joseph Haydn (61)
+35. Peter O'Toole (60)
+
+14. Tom Hanks (67)
+51. Tokhtamysh (56)
+
+19. Walter Cronkite (64)
+46. Elizabeth of Russia (57)
+
+6. Billie Eilish (73)
+59. Antonio José de Sucre (54)
+
+27. John Steinbeck (62)
+38. Scipio Africanus (59)
+
+11. Benjamin Britten (69)
+54. Wolfgang Pauli (55)
+
+22. Ray Charles (63)
+43. Tamar of Georgia (57)
+
+--REGION 20--
+1. Pope John Paul II (87)
+64. Charles Hermite (52)
+
+32. Golda Meir (60)
+33. Ada Lovelace (60)
+
+16. Elizabeth I (66)
+49. Symon Petliura (56)
+
+17. Ty Cobb (65)
+48. Miguel de Cervantes (57)
+
+8. George C. Marshall (71)
+57. Gilbert N. Lewis (55)
+
+25. Alexis de Tocqueville (62)
+40. Murasaki Shikibu (58)
+
+9. Cary Grant (70)
+56. Caroline Herschel (55)
+
+24. Abbas the Great (63)
+41. Ahmad Shah Durrani (58)
+
+4. Nicki Minaj (76)
+61. Natsume Sōseki (53)
+
+29. Bob Marley (61)
+36. Thomas Mann (59)
+
+13. Rudyard Kipling (67)
+52. Bonnie Blair (56)
+
+20. Pierre-Simon Laplace (64)
+45. William Harvey (57)
+
+5. Augustine of Hippo (75)
+60. Bernhard Riemann (54)
+
+28. Francis Xavier (61)
+37. Śāriputra (59)
+
+12. Pierre Boulez (68)
+53. Selim I (56)
+
+21. Socrates (64)
+44. Viv Richards (57)
+
+2. Steven Spielberg (82)
+63. Carl Gustav Jacob Jacobi (53)
+
+31. Charles Stewart Parnell (61)
+34. Kylie Jenner (60)
+
+15. Mu'awiya I (66)
+50. Anna Freud (56)
+
+18. Bayinnaung (65)
+47. Margaret I of Denmark (57)
+
+7. Elizabeth II (72)
+58. Nikolay Karamzin (54)
+
+26. Franz Liszt (62)
+39. Tennessee Williams (58)
+
+10. Martin Heidegger (70)
+55. Eratosthenes (55)
+
+23. Matthias Corvinus (63)
+42. Carl Rogers (58)
+
+3. Woody Allen (78)
+62. Patriarch Nikon of Moscow (53)
+
+30. Ted Turner (61)
+35. Dante Alighieri (60)
+
+14. Thomas Henry Huxley (67)
+51. Khloé Kardashian (56)
+
+19. Louis XVI (64)
+46. Clovis I (57)
+
+6. Steve Jobs (73)
+59. Ali Akbar Khan (54)
+
+27. Judas Iscariot (62)
+38. Joan Sutherland (59)
+
+11. Saddam Hussein (69)
+54. Charles IV, Holy Roman Emperor (55)
+
+22. Genghis Khan (63)
+43. Abu Hanifa (57)
+
+--REGION 21--
+1. Ferdinand Marcos (91)
+64. Muhammad II of Khwarazm (51)
+
+32. Edward III of England (60)
+33. Maudgalyayana (60)
+
+16. Edward Elgar (66)
+49. Gustave Eiffel (56)
+
+17. Jack London (65)
+48. Miyamoto Musashi (57)
+
+8. Luis Buñuel (71)
+57. Muhammad al-Bukhari (55)
+
+25. Epicurus (62)
+40. Jonah Lomu (58)
+
+9. Eleanor Roosevelt (70)
+56. Selma Lagerlöf (55)
+
+24. Ayn Rand (63)
+41. Jackie Joyner-Kersee (58)
+
+4. George Orwell (76)
+61. Alexis of Russia (54)
+
+29. Peter Abelard (61)
+36. Enrico Caruso (59)
+
+13. Rupert Murdoch (68)
+52. Emir Abdelkader (56)
+
+20. Gioachino Rossini (64)
+45. Nikolai Gogol (57)
+
+5. W. E. B. Du Bois (75)
+60. Emperor Taizu of Song (54)
+
+28. Blackbeard (61)
+37. Caspar David Friedrich (59)
+
+12. Leonid Brezhnev (68)
+53. Umm Kulthum (56)
+
+21. Sayyid Qutb (64)
+44. Mikhail Bulgakov (57)
+
+2. Jesus (81)
+63. Junko Tabei (53)
+
+31. Zendaya (61)
+34. David Guetta (60)
+
+15. Jacques Derrida (66)
+50. Jan Žižka (56)
+
+18. Sun Yat-sen (65)
+47. Ferdinand Magellan (57)
+
+7. Gottfried Wilhelm Leibniz (73)
+58. Irving Langmuir (54)
+
+26. Giuseppe Garibaldi (62)
+39. Edward R. Murrow (59)
+
+10. Wernher von Braun (69)
+55. Lycurgus (lawgiver) (55)
+
+23. Kim Kardashian (63)
+42. Chanakya (58)
+
+3. Prince (musician) (79)
+62. Joseph Fourier (53)
+
+30. Alauddin Khalji (61)
+35. Wolfgang Amadeus Mozart (60)
+
+14. Plautus (67)
+51. Lev Yashin (56)
+
+19. Aleksandr Solzhenitsyn (64)
+46. John Constable (57)
+
+6. Muhammad (73)
+59. Cesare Beccaria (54)
+
+27. F. W. de Klerk (62)
+38. Attila (59)
+
+11. Cardi B (69)
+54. Sergey Bubka (55)
+
+22. Franz Joseph I of Austria (63)
+43. Bolesław I the Brave (58)
+
+--REGION 22--
+1. John F. Kennedy (86)
+64. Léon Foucault (52)
+
+32. Eusebius (60)
+33. Nicholas I of Russia (60)
+
+16. Otto Hahn (66)
+49. Edwin Hubble (56)
+
+17. William the Conqueror (65)
+48. Leopold I, Holy Roman Emperor (57)
+
+8. John the Baptist (71)
+57. Arminius (55)
+
+25. Mary Baker Eddy (62)
+40. Fritz Haber (58)
+
+9. Deng Xiaoping (70)
+56. Cosimo de' Medici (55)
+
+24. Dmitri Shostakovich (63)
+41. Serge Gainsbourg (58)
+
+4. Clint Eastwood (77)
+61. Gareth Edwards (53)
+
+29. Haruki Murakami (61)
+36. Alexander Fleming (59)
+
+13. Joan of Arc (67)
+52. Abd al-Rahman III (56)
+
+20. Rothschild family (64)
+45. Vladimir Horowitz (57)
+
+5. Joseph Smith (74)
+60. Giovanni Pierluigi da Palestrina (54)
+
+28. Idi Amin (61)
+37. Henrik Ibsen (59)
+
+12. Elizabeth Taylor (68)
+53. Lev Vygotsky (55)
+
+21. Aaron Copland (64)
+44. Kamehameha I (57)
+
+2. Winston Churchill (84)
+63. Jayavarman VII (52)
+
+31. Cao Cao (61)
+34. Caligula (60)
+
+15. Irving Berlin (66)
+50. Mahmud of Ghazni (56)
+
+18. Giuseppe Verdi (65)
+47. Philip V of Spain (57)
+
+7. Puyi (72)
+58. Diogenes (54)
+
+26. Hideki Tojo (62)
+39. Jan van Eyck (58)
+
+10. Adolphe Thiers (70)
+55. Fuzuli (poet) (55)
+
+23. V. S. Naipaul (63)
+42. George Gershwin (58)
+
+3. Franklin D. Roosevelt (77)
+62. Luciana Aymar (53)
+
+30. William Randolph Hearst (61)
+35. Ramesses II (59)
+
+14. Henry IV, Holy Roman Emperor (67)
+51. Charles Martel (56)
+
+19. David Ben-Gurion (64)
+46. Roxelana (57)
+
+6. Paul the Apostle (74)
+59. William Gilbert (physician) (54)
+
+27. Henry Fonda (62)
+38. Sitting Bull (59)
+
+11. Ramakrishna (68)
+54. Anna Pavlova (55)
+
+22. Alcibiades (63)
+43. Alain Delon (57)
+
+--REGION 23--
+1. Beyoncé (90)
+64. Shitao (52)
+
+32. Hyder Ali (60)
+33. Chuck Berry (60)
+
+16. Enver Hoxha (66)
+49. Leon Festinger (56)
+
+17. William Blake (65)
+48. Roald Amundsen (57)
+
+8. Wayne Gretzky (71)
+57. Tsung-Dao Lee (55)
+
+25. Galen (62)
+40. Henri Cartier-Bresson (58)
+
+9. ABBA (70)
+56. Vin Diesel (55)
+
+24. Fernando Pessoa (63)
+41. Diego Velázquez (58)
+
+4. Rihanna (76)
+61. Judah Loew ben Bezalel (54)
+
+29. Gabriel García Márquez (61)
+36. Jane Goodall (59)
+
+13. Moctezuma II (68)
+52. Carlos Fuentes (56)
+
+20. Annika Sörenstam (64)
+45. Albert A. Michelson (57)
+
+5. Friedrich Nietzsche (75)
+60. Marcel Marceau (54)
+
+28. Fatima (61)
+37. Edith Wharton (59)
+
+12. Malala Yousafzai (68)
+53. Ahmad ibn Ibrahim al-Ghazi (56)
+
+21. Shen Kuo (64)
+44. Humayun (57)
+
+2. Virat Kohli (81)
+63. Fibonacci (53)
+
+31. Hank Williams (61)
+34. Auguste Rodin (60)
+
+15. Gian Lorenzo Bernini (66)
+50. Alaungpaya (56)
+
+18. Getúlio Vargas (65)
+47. Gustavus Adolphus (57)
+
+7. Jackie Robinson (72)
+58. Guy de Maupassant (54)
+
+26. Jacques Cousteau (62)
+39. Justus von Liebig (59)
+
+10. Nicolaus Copernicus (69)
+55. Mulla Sadra (55)
+
+23. James Abbott McNeill Whistler (63)
+42. Nusrat Fateh Ali Khan (58)
+
+3. Diego Maradona (79)
+62. Li Si (53)
+
+30. Joseph II, Holy Roman Emperor (61)
+35. Maria Montessori (60)
+
+14. Rembrandt (67)
+51. Marcus Licinius Crassus (56)
+
+19. Madhubala (64)
+46. Léopold Sédar Senghor (57)
+
+6. Talcott Parsons (73)
+59. Rama I (54)
+
+27. Richard Strauss (62)
+38. Li Bai (59)
+
+11. Johnny Cash (69)
+54. Évariste Galois (55)
+
+22. Duke Ellington (63)
+43. Francis II, Holy Roman Emperor (57)
+
+--REGION 24--
+1. Theodore Roosevelt (86)
+64. Izumo no Okuni (52)
+
+32. Robert Boyle (60)
+33. Sylvia Plath (60)
+
+16. Jeremy Bentham (66)
+49. Frederick Law Olmsted (56)
+
+17. Henry Ford (65)
+48. Túpac Amaru II (57)
+
+8. Charles Dickens (71)
+57. W. D. Hamilton (55)
+
+25. Hernán Cortés (62)
+40. Subutai (58)
+
+9. Michael Schumacher (70)
+56. Ferdinand II of Aragon (55)
+
+24. John Muir (63)
+41. Édouard Manet (58)
+
+4. John Lennon (76)
+61. Geoffrey of Monmouth (53)
+
+29. Gene Kelly (61)
+36. Muhammad Ali Pasha (59)
+
+13. Maria Theresa (67)
+52. Mencius (56)
+
+20. Werner Heisenberg (64)
+45. Nagarjuna (57)
+
+5. Aung San Suu Kyi (74)
+60. Rudaki (54)
+
+28. Guglielmo Marconi (61)
+37. Charles Aznavour (59)
+
+12. Mark Antony (68)
+53. Gregor Mendel (56)
+
+21. Hannibal (64)
+44. Sequoyah (57)
+
+2. Willy Brandt (83)
+63. Kumārila Bhaṭṭa (53)
+
+31. Jules Verne (61)
+34. Andrew Mellon (60)
+
+15. Salvador Dalí (66)
+50. Hong Taiji (56)
+
+18. Hector Berlioz (65)
+47. Dag Hammarskjöld (57)
+
+7. Louis XIV (72)
+58. Hieronymus Bosch (54)
+
+26. Émile Durkheim (62)
+39. Michael Faraday (58)
+
+10. Dolly Parton (70)
+55. Jacques Cartier (55)
+
+23. Pancho Villa (63)
+42. Ilya Repin (58)
+
+3. Harry S. Truman (78)
+62. Han Fei (53)
+
+30. Brigitte Bardot (61)
+35. Peter the Great (59)
+
+14. Hirohito (67)
+51. Rajaraja I (56)
+
+19. Spencer Tracy (64)
+46. Johannes Vermeer (57)
+
+6. Quentin Tarantino (74)
+59. Wanli Emperor (54)
+
+27. Doris Day (62)
+38. William Shockley (59)
+
+11. J. Robert Oppenheimer (68)
+54. Siméon Denis Poisson (55)
+
+22. Plácido Domingo (63)
+43. J. J. Thomson (57)
+
+--REGION 25--
+1. Lionel Messi (93)
+64. Bhavabhuti (51)
+
+32. Robert Baden-Powell, 1st Baron Baden-Powell (60)
+33. Langston Hughes (60)
+
+16. Led Zeppelin (65)
+49. La Malinche (56)
+
+17. Queen Victoria (65)
+48. Kapila (56)
+
+8. Bertrand Russell (71)
+57. Jöns Jacob Berzelius (55)
+
+25. Robert Johnson (62)
+40. Girolamo Savonarola (58)
+
+9. Stan Lee (70)
+56. Ivan Turgenev (55)
+
+24. Bodhidharma (63)
+41. Pablo Escobar (58)
+
+4. Benjamin Disraeli (75)
+61. Gaiseric (54)
+
+29. Stephen I of Hungary (61)
+36. James Chadwick (59)
+
+13. Bing Crosby (68)
+52. Charles the Fat (56)
+
+20. Niccolò Machiavelli (64)
+45. Alvar Aalto (57)
+
+5. Ludwig Wittgenstein (75)
+60. Ajatashatru (54)
+
+28. Yuri Gagarin (61)
+37. Robert Moses (59)
+
+12. Oliver Cromwell (68)
+53. Kumārajīva (56)
+
+21. Mark Zuckerberg (64)
+44. Tao Yuanming (57)
+
+2. Jawaharlal Nehru (80)
+63. Muthuswami Dikshitar (53)
+
+31. Lee de Forest (61)
+34. Lucian (60)
+
+15. Michael Collins (Irish leader) (67)
+50. Antonio Stradivari (56)
+
+18. Marshall McLuhan (65)
+47. Friedrich Schiller (57)
+
+7. Ed Sheeran (73)
+58. Zhiyi (54)
+
+26. Jack L. Warner (62)
+39. Clara Schumann (59)
+
+10. Gary Cooper (69)
+55. Steve Redgrave (55)
+
+23. Horace (63)
+42. Nicolas Poussin (58)
+
+3. Angela Merkel (79)
+62. Sultan Agung of Mataram (53)
+
+30. Franz Beckenbauer (61)
+35. Shirley Temple (60)
+
+14. Jean Piaget (67)
+51. Robert Bresson (56)
+
+19. John Dewey (64)
+46. Laozi (57)
+
+6. Ronald Reagan (73)
+59. Peter Gustav Lejeune Dirichlet (54)
+
+27. Ansel Adams (62)
+38. Philo Farnsworth (59)
+
+11. Franz Kafka (69)
+54. Hermann Weyl (55)
+
+22. Kofi Annan (63)
+43. Mieszko I (58)
+
+--REGION 26--
+1. Joe Biden (85)
+64. Pachacuti (52)
+
+32. Wassily Kandinsky (60)
+33. John Curtin (60)
+
+16. Christiaan Huygens (66)
+49. Charlie Parker (56)
+
+17. Edward I of England (65)
+48. Mstislav Rostropovich (57)
+
+8. Andrew Jackson (71)
+57. Dennis Ritchie (54)
+
+25. Giordano Bruno (62)
+40. Philip II of France (58)
+
+9. Carl Jung (70)
+56. Naguib Mahfouz (55)
+
+24. Baháʼu'lláh (63)
+41. Al-Biruni (58)
+
+4. Muhammad Ali (77)
+61. Imhotep (53)
+
+29. Darius the Great (61)
+36. Vaslav Nijinsky (59)
+
+13. Selena (67)
+52. Luigi Pirandello (56)
+
+20. T. E. Lawrence (64)
+45. Tim Berners-Lee (57)
+
+5. Michael Phelps (74)
+60. Stephen Báthory (54)
+
+28. W. B. Yeats (62)
+37. Enver Pasha (59)
+
+12. Patrice Lumumba (68)
+53. Alfred Wegener (55)
+
+21. Baruch Spinoza (63)
+44. Philip II of Macedon (57)
+
+2. Pope Francis (84)
+63. Krum (52)
+
+31. Claude Lévi-Strauss (61)
+34. Anwar Sadat (60)
+
+15. Tupac Shakur (66)
+50. Édith Piaf (56)
+
+18. Ramana Maharshi (65)
+47. Robert Andrews Millikan (57)
+
+7. Julius Nyerere (72)
+58. Louis Braille (54)
+
+26. Ivan Bunin (62)
+39. Gregory of Nyssa (58)
+
+10. Origen (70)
+55. George Balanchine (55)
+
+23. Pyotr Ilyich Tchaikovsky (63)
+42. Taras Shevchenko (58)
+
+3. Sachin Tendulkar (77)
+62. Emile Berliner (53)
+
+30. Coco Chanel (61)
+35. Upton Sinclair (59)
+
+14. Le Corbusier (67)
+51. Douglas Engelbart (56)
+
+19. Cicero (64)
+46. Theodoric the Great (57)
+
+6. Miley Cyrus (74)
+59. Constantine P. Cavafy (54)
+
+27. Eadweard Muybridge (62)
+38. Eusébio (59)
+
+11. Isaac Newton (68)
+54. Huineng (55)
+
+22. Woody Guthrie (63)
+43. Hatshepsut (57)
+
+--REGION 27--
+1. John von Neumann (88)
+64. Theodoric I (52)
+
+32. Theodor Herzl (60)
+33. John Rawls (60)
+
+16. George Lucas (66)
+49. Pierre de Coubertin (56)
+
+17. Erasmus (65)
+48. Molière (57)
+
+8. Garry Kasparov (71)
+57. Gotthold Ephraim Lessing (55)
+
+25. Bartolomé de las Casas (62)
+40. William Blackstone (58)
+
+9. Monty Python (70)
+56. John Logie Baird (55)
+
+24. Emperor Wu of Han (63)
+41. Daniel Defoe (58)
+
+4. Adolf Hitler (76)
+61. Gwanggaeto the Great (54)
+
+29. Pablo Neruda (61)
+36. Barbara Stanwyck (59)
+
+13. Ernest Hemingway (67)
+52. Nefertiti (56)
+
+20. Lech Wałęsa (64)
+45. El Cid (57)
+
+5. Jimi Hendrix (75)
+60. Nicolas Léonard Sadi Carnot (54)
+
+28. Arturo Toscanini (61)
+37. Thomas Müntzer (59)
+
+12. Frida Kahlo (68)
+53. William Rowan Hamilton (56)
+
+21. Emily Dickinson (64)
+44. Hesiod (57)
+
+2. Adele (82)
+63. Iskandar Muda (53)
+
+31. Alec Guinness (61)
+34. Suleiman the Magnificent (60)
+
+15. Mia Hamm (66)
+50. Huang Chao (56)
+
+18. Allen Ginsberg (65)
+47. Tim Cook (57)
+
+7. Tiger Woods (72)
+58. Clifford Geertz (54)
+
+26. Cnut (62)
+39. Claude Shannon (58)
+
+10. Antoni Gaudí (69)
+55. Krishnadevaraya (55)
+
+23. Sean Connery (63)
+42. Kenzaburō Ōe (58)
+
+3. The Buddha (78)
+62. Casimir III the Great (53)
+
+30. Zhang Heng (61)
+35. Tertullian (60)
+
+14. Brian Eno (67)
+51. Baybars (56)
+
+19. T. S. Eliot (64)
+46. John Donne (57)
+
+6. Pierre Trudeau (73)
+59. Walter Gropius (54)
+
+27. Pope Boniface VIII (62)
+38. Scott Joplin (59)
+
+11. René Descartes (69)
+54. George Eastman (55)
+
+22. Steve Biko (63)
+43. Joseph Banks (57)
+
+--REGION 28--
+1. Xi Jinping (87)
+64. Puduḫepa (52)
+
+32. Philip Melanchthon (60)
+33. Aristophanes (60)
+
+16. Francis Crick (66)
+49. Jakob Fugger (56)
+
+17. Mehmed II (65)
+48. Giotto (57)
+
+8. H. P. Lovecraft (71)
+57. John Jacob Astor (55)
+
+25. Dr. Seuss (62)
+40. Garfield Sobers (58)
+
+9. Aurangzeb (70)
+56. Fernand Braudel (55)
+
+24. Bertolt Brecht (63)
+41. Gal Gadot (58)
+
+4. BTS (76)
+61. Giorgio Vasari (53)
+
+29. Wong Kar-wai (61)
+36. George Carlin (59)
+
+13. Lord Byron (67)
+52. Kūkai (56)
+
+20. Brontë family (64)
+45. Pyrrhus of Epirus (57)
+
+5. Yuzuru Hanyu (74)
+60. Wallace Carothers (54)
+
+28. Alexander I of Russia (61)
+37. David Ricardo (59)
+
+12. Muhammad Ali Jinnah (68)
+53. Vyasa (56)
+
+21. Emperor Taizong of Tang (64)
+44. George Boole (57)
+
+2. Drake (musician) (82)
+63. Chinghiz Aitmatov (53)
+
+31. Jürgen Habermas (61)
+34. Ismail I (60)
+
+15. H. G. Wells (66)
+50. Du Fu (56)
+
+18. Louis Pasteur (65)
+47. Dmitri Mendeleev (57)
+
+7. Noam Chomsky (72)
+58. Nizam al-Mulk (54)
+
+26. Sandro Botticelli (62)
+39. Rudolf Nureyev (58)
+
+10. Marcus Aurelius (70)
+55. William Wallace (55)
+
+23. Vince Lombardi (63)
+42. Ludwig Mies van der Rohe (58)
+
+3. 14th Dalai Lama (78)
+62. Kaṇāda (philosopher) (53)
+
+30. Jim Thorpe (61)
+35. Kraftwerk (60)
+
+14. Ante Pavelić (67)
+51. Guillaume Du Fay (56)
+
+19. Margaret Sanger (64)
+46. Emperor Gaozu of Han (57)
+
+6. Saint Peter (73)
+59. Cyrus McCormick (54)
+
+27. Huldrych Zwingli (62)
+38. Django Reinhardt (59)
+
+11. Andy Warhol (69)
+54. Sviatoslav I (55)
+
+22. Kublai Khan (63)
+43. Bob Woodward (57)
+
+--REGION 29--
+1. Mahatma Gandhi (92)
+64. Wang Xizhi (51)
+
+32. Thutmose III (60)
+33. Marlene Dietrich (60)
+
+16. Hildegard of Bingen (66)
+49. John Dryden (56)
+
+17. Charles XIV John (65)
+48. François Duvalier (56)
+
+8. Boris Yeltsin (71)
+57. Antoine Watteau (55)
+
+25. Sulla (62)
+40. Titian (58)
+
+9. Bill Gates (70)
+56. Patanjali (55)
+
+24. Friedrich Engels (63)
+41. François Truffaut (58)
+
+4. Zhou Enlai (76)
+61. Henri Becquerel (54)
+
+29. Johnny Carson (61)
+36. Nader Shah (59)
+
+13. Jackie Chan (68)
+52. Christine de Pizan (56)
+
+20. Ralph Vaughan Williams (64)
+45. Émile Zola (57)
+
+5. Usain Bolt (75)
+60. Eric Heiden (54)
+
+28. Claude Monet (61)
+37. Syngman Rhee (59)
+
+12. Klemens von Metternich (68)
+53. Enzo Ferrari (56)
+
+21. Pope Alexander VI (64)
+44. Werner Herzog (57)
+
+2. Narendra Modi (81)
+63. Jacob Bernoulli (53)
+
+31. Louis Philippe I (61)
+34. Francisco Morazán (60)
+
+15. Herman Melville (66)
+50. Raj Kapoor (56)
+
+18. Andrew Lloyd Webber (65)
+47. Jiang Qing (57)
+
+7. Johan Cruyff (73)
+58. Al-Nawawi (54)
+
+26. Jane Jacobs (62)
+39. Giacomo Puccini (59)
+
+10. Steffi Graf (69)
+55. James Prescott Joule (55)
+
+23. Kurt Vonnegut (63)
+42. Shaka (58)
+
+3. Hannah Arendt (79)
+62. Setsuko Hara (53)
+
+30. Anton Chekhov (61)
+35. Tiberius (60)
+
+14. Audrey Hepburn (67)
+51. Walter Lippmann (56)
+
+19. John Kenneth Galbraith (64)
+46. Nnamdi Azikiwe (57)
+
+6. Konrad Adenauer (73)
+59. Hiroshige (54)
+
+27. Samuel Beckett (62)
+38. Hermann Hesse (59)
+
+11. Henry VIII (69)
+54. Godfrey of Bouillon (55)
+
+22. Umar (63)
+43. Bob Fosse (58)
+
+--REGION 30--
+1. George W. Bush (86)
+64. Johann Bernoulli (52)
+
+32. William Murray, 1st Earl of Mansfield (60)
+33. Zheng He (60)
+
+16. Alfred Russel Wallace (66)
+49. Lê Thánh Tông (56)
+
+17. Richard I of England (65)
+48. René Magritte (57)
+
+8. Ursula K. Le Guin (71)
+57. Henri de Toulouse-Lautrec (54)
+
+25. Percy Bysshe Shelley (62)
+40. Toyotomi Hideyoshi (58)
+
+9. Henry II of England (70)
+56. Camillo Benso, Count of Cavour (55)
+
+24. B. F. Skinner (63)
+41. Alexandre Dumas (58)
+
+4. Pelé (77)
+61. Vilna Gaon (53)
+
+29. Ingmar Bergman (61)
+36. Ibn Saud (59)
+
+13. Paul Cézanne (67)
+52. Madame de Pompadour (56)
+
+20. Alfredo Di Stéfano (64)
+45. James Hutton (57)
+
+5. Pink Floyd (74)
+60. Vytautas (54)
+
+28. Hipparchus (61)
+37. Louis Agassiz (59)
+
+12. Rosalind Franklin (68)
+53. Jean Cocteau (55)
+
+21. Robert the Bruce (64)
+44. Philip IV of France (57)
+
+2. Orson Welles (84)
+63. Daniel Bernoulli (52)
+
+31. Brothers Grimm (61)
+34. Emiliano Zapata (60)
+
+15. Rajinikanth (66)
+50. Augustin-Louis Cauchy (56)
+
+18. Mary Wollstonecraft (65)
+47. Mahmud II (57)
+
+7. Marcus Garvey (72)
+58. Raymond Loewy (54)
+
+26. Steve Wozniak (62)
+39. Artemisia Gentileschi (58)
+
+10. Oscar Wilde (70)
+55. Louis Kahn (55)
+
+23. Claudio Monteverdi (63)
+42. Ernest Rutherford (58)
+
+3. Indira Gandhi (77)
+62. Decebalus (53)
+
+30. Henry James (61)
+35. B.B. King (59)
+
+14. Rod Laver (67)
+51. Marcello Mastroianni (56)
+
+19. Gustav Mahler (64)
+46. Pope Innocent III (57)
+
+6. Robert Mugabe (74)
+59. Democritus (54)
+
+27. José de San Martín (62)
+38. Max Born (59)
+
+11. William Shakespeare (68)
+54. Bai Juyi (55)
+
+22. Glenn Gould (63)
+43. Virgil (57)
+
+--REGION 31--
+1. Vladimir Putin (89)
+64. Ezana of Axum (52)
+
+32. Ibn Arabi (60)
+33. John of the Cross (60)
+
+16. William S. Burroughs (66)
+49. Norman Rockwell (56)
+
+17. James VI and I (65)
+48. Albert Bandura (57)
+
+8. Cecil B. DeMille (71)
+57. Alfred Nobel (55)
+
+25. Paavo Nurmi (62)
+40. Cyril of Alexandria (58)
+
+9. Augustus (70)
+56. Ptolemy I Soter (55)
+
+24. William III of England (63)
+41. Rainer Maria Rilke (58)
+
+4. Leon Trotsky (76)
+61. Leonidas I (54)
+
+29. Lewis Carroll (61)
+36. Edvard Munch (59)
+
+13. Robert H. Goddard (67)
+52. Tenzing Norgay (56)
+
+20. Johann Wolfgang von Goethe (64)
+45. Michiel de Ruyter (57)
+
+5. William Ewart Gladstone (75)
+60. Willem Barentsz (54)
+
+28. Horace Greeley (61)
+37. Elie Wiesel (59)
+
+12. Galileo Galilei (68)
+53. Gustave Flaubert (56)
+
+21. John Calvin (64)
+44. Malik ibn Anas (57)
+
+2. George Washington (81)
+63. Leo III the Isaurian (53)
+
+31. Heinrich Heine (61)
+34. Johannes Brahms (60)
+
+15. Jerry Rice (66)
+50. Patrick White (56)
+
+18. Josquin des Prez (65)
+47. Antonio Vivaldi (57)
+
+7. Christopher Columbus (72)
+58. Gordon Allport (54)
+
+26. Ang Lee (62)
+39. Helmuth von Moltke the Elder (59)
+
+10. Helena Blavatsky (69)
+55. Isma'il Pasha of Egypt (55)
+
+23. Mary, Queen of Scots (63)
+42. Al-Nasir Muhammad (58)
+
+3. Cleopatra (79)
+62. Trần Hưng Đạo (53)
+
+30. Benito Juárez (61)
+35. John the Apostle (60)
+
+14. Charles I of England (67)
+51. Baal Shem Tov (56)
+
+19. Emmeline Pankhurst (64)
+46. John Dalton (57)
+
+6. Helmut Kohl (73)
+59. Basava (54)
+
+27. Vlad the Impaler (62)
+38. Thomas Sankara (59)
+
+11. Olusegun Obasanjo (69)
+54. Heinrich Schliemann (55)
+
+22. Catherine de' Medici (63)
+43. George Armitage Miller (57)
+
+--REGION 32--
+1. Frank Sinatra (86)
+64. Ram Khamhaeng (52)
+
+32. Edward Hopper (60)
+33. Vladimir Mayakovsky (60)
+
+16. Henry David Thoreau (66)
+49. Yves Saint Laurent (designer) (56)
+
+17. Harry Houdini (65)
+48. Rashi (57)
+
+8. Robert De Niro (71)
+57. Rodgers and Hammerstein (55)
+
+25. Athanasius of Alexandria (62)
+40. György Ligeti (58)
+
+9. François Mitterrand (70)
+56. Pierre-Auguste Renoir (55)
+
+24. Ovid (63)
+41. Mimar Sinan (58)
+
+4. Che Guevara (76)
+61. Tyagaraja (53)
+
+29. George Washington Carver (61)
+36. Paul Samuelson (59)
+
+13. Elizabeth Cady Stanton (67)
+52. Pablo Casals (56)
+
+20. Sidney Poitier (64)
+45. Isaiah Berlin (57)
+
+5. Ronaldo (Brazilian footballer) (74)
+60. Emil Zátopek (54)
+
+28. John James Audubon (61)
+37. Albert Camus (59)
+
+12. Thomas Edison (68)
+53. Antigonus I Monophthalmus (56)
+
+21. Ibn Battuta (64)
+44. Pieter Bruegel the Elder (57)
+
+2. The Beach Boys (83)
+63. Jochi (53)
+
+31. Duns Scotus (61)
+34. Vladimir Nabokov (60)
+
+15. Alexander Dubček (66)
+50. Anawrahta (56)
+
+18. Jean Sibelius (65)
+47. Emperor Wen of Sui (57)
+
+7. Ruhollah Khomeini (72)
+58. Ben Okri (54)
+
+26. Apollonius of Perga (62)
+39. Joseph Brodsky (58)
+
+10. James Madison (70)
+55. Selim III (55)
+
+23. Tycho Brahe (63)
+42. Harun al-Rashid (58)
+
+3. Justin Bieber (78)
+62. Henry the Lion (53)
+
+30. Georg Cantor (61)
+35. Solon (59)
+
+14. Sheikh Mujibur Rahman (67)
+51. Georges-Eugène Haussmann (56)
+
+19. Pope Julius II (64)
+46. Isadora Duncan (57)
+
+6. Paul von Hindenburg (73)
+59. Johann Strauss II (54)
+
+27. William Pitt the Younger (62)
+38. Yi Sun-sin (59)
+
+11. Bruce Lee (68)
+54. Henry Purcell (55)
+
+22. Pericles (63)
+43. Rabbi Akiva (57)
+
