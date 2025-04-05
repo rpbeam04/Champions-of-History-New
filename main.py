@@ -1,11 +1,11 @@
 import json
-from pprint import *
+from pprint import pprint
 from bracket import bracket
 import math
 import random
 from collections import Counter
 
-with open("People_Dicts.json","r") as f:
+with open("People_Dicts.json","r",encoding="utf-8") as f:
   data = json.load(f)
 
 for i,d in enumerate(data):
@@ -25,11 +25,11 @@ data = sorted(data, key = lambda x: x['WordCount'], reverse = True)
 
 tourney = bracket.Bracket([i["Name"] for i in data])
 
-with open("Rankings.txt",'w') as f:
+with open("Rankings.txt",'w',encoding="utf-8") as f:
   for team in tourney.teams:
     f.write(f"{get_seed(team)}. {team}\n")  
 
-with open("FirstRound.txt","w") as f:
+with open("FirstRound.txt","w",encoding="utf-8") as f:
   c = 1
   for seed in tourney.lineup:
     if (c-1)%64 == 0:
@@ -48,7 +48,7 @@ def matchup(team1,team2):
   return random.choices([team1,team2],weights=[w1,w2])[0]
 
 champions = []
-for u in range(0,1):
+for u in range(0,10):
   matchups = [x for x in tourney.lineup]
   for r in range(1,len(tourney.rounds)):
     next_round = []
@@ -158,5 +158,5 @@ html = generate_first_round_html([tourney.teams[x-1] for x in tourney.lineup[:64
 
 # html = b.render()
 
-with open("Bracket.html","w") as f:
+with open("Bracket.html","w",encoding="utf-8") as f:
   f.write(html)

@@ -1,61 +1,74 @@
 import requests
 from bs4 import BeautifulSoup
-from pprint import *
-import os
-import pandas as pd
+import re
 import json
+import wikipediaapi
 
-url = "https://en.wikipedia.org/wiki/Wikipedia:Vital_articles/Level/4/People"
-filename = "WikiArticle.html"
+counts = {3: 0, 4: 0, 5: 0, 6: 0}
+cur = {3: None, 4: None, 5: None, 6: None}
 
-# Check if the file has been saved already today
-if os.path.exists(filename) and os.path.getmtime(filename) > pd.Timestamp.today().floor("D").timestamp():
-  print("I have a file!")
-  with open(filename, "r") as f:
-    html = f.read()
-else:
-  # Scrape the URL and save the HTML file
-  response = requests.get(url)
-  print("I'm scraping!")
-  html = response.text
-  with open(filename, "w") as f:
-    f.write(html)
+def process_people(tag):
+    people = []
 
-soup = BeautifulSoup(html, "html.parser")
-links = soup.find_all("a")
+    level_stack = []  # Keeps track of active heading levels
 
-articles = []
-rogues = ["Articles related to current events","The hub for editors"]
-with open("Invitees.txt") as f:
-  invitees = f.read().split("\n")
-  for i,invite in enumerate(invitees):
-    article_url = "https://en.wikipedia.org/wiki/" + invite.replace(" ", "_")
-    article_response = requests.get(article_url)
-    article_soup = BeautifulSoup(article_response.text, "html.parser")
-    word_count = len(article_soup.get_text().split())
-    invitees[i] = ({"Name": invite, "URL": article_url, "WordCount": word_count})
+    ct = 0
+    while tag:
+        if tag.name and tag.name.startswith('h') and tag.name[1:].isdigit():
+            tag_level = int(tag.name[1])
+            if tag_level in counts:
+                # Adjust level stack
+                while level_stack and level_stack[-1] >= tag_level:
+                    l = level_stack.pop()
+                    cur[l] = None
+                level_stack.append(tag_level)
 
-for link in links:
-  name = link.get("title")
-  try:
-    split_url = link.get("href").split("/")
-  except:
-    split_url = []
-  if name and len(split_url) == 3 and split_url[1] == "wiki" and " article" not in name and ":" not in name and "[" not in name and "Wikipedia" not in name and name not in rogues:
-    article_url = "https://en.wikipedia.org/wiki/" + name.replace(" ", "_")
-    article_response = requests.get(article_url)
-    article_soup = BeautifulSoup(article_response.text, "html.parser")
-    word_count = len(article_soup.get_text().split())
-    articles.append({"Name": name, "URL": article_url, "WordCount": word_count})
+                indent = len(level_stack) - 1
+                cur[tag_level] = tag.text
 
-articles = articles + invitees
-pprint(len(articles))
-pprint(invitees)
-articles = sorted(articles, key = lambda x: x['Name'])
+                # Find next paragraph (sibling or nearby)
+                p = tag.find_next('p')
+                if p:
+                    match = re.search(r'\d+', p.text)
+                    if match:
+                        counts[tag_level] += int(match.group())
 
-with open("People.txt",'w') as f:
-  for article in articles:
-    f.write(f"{article['Name']}\n")
+        elif tag.name == "ol":
+            indent = len(level_stack)
+            for li in tag.find_all('li', recursive=False):
+                name = li.text.strip().split("(Level 3")
+                try:
+                    link = li.find('b').find('a', recursive=False)['href']
+                except:
+                    link = li.find('a', recursive=False)['href']
+                person = {"Name": name[0].strip(), "Link": "https://en.wikipedia.org" + link, 
+                          "Level 3": True if len(name) > 1 else False,
+                          "h3": cur[3], "h4": cur[4], "h5": cur[5], "h6": cur[6]}
+                people.append(person)
+                ct += 1
 
-with open("People_Dicts.json",'w') as f:
-  json.dump(articles, f, indent = 2)
+        tag = tag.find_next()
+    
+    return people
+
+def scrape_vital_people():
+    # URL = "https://en.wikipedia.org/wiki/Wikipedia:Vital_articles/Level/4/People"
+    # response = requests.get(URL)
+    # soup = BeautifulSoup(response.text, 'html.parser')
+
+    with open("WikiArticle.html","r",encoding="utf-8") as f:
+        response = f.read()
+        soup = BeautifulSoup(response, 'html.parser')
+
+    content_div = soup.find("div", class_="mw-content-ltr mw-parser-output")
+
+    people = process_people(content_div.find_next('h3'))
+
+    with open("vital_people.json", "w", encoding="utf-8") as f:
+        json.dump(people, f, indent=2)
+
+    return people
+
+def article_length(name, wiki_wiki):
+    page = wiki_wiki.page(name)
+    return len(page.text), page.summary.split('\n')[0]
