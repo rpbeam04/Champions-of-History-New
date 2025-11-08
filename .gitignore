@@ -1,0 +1,18 @@
+# Python virtual environment directories
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+.env/
+venv.bak/
+
+# Virtual environment files
+pyvenv.cfg
+.Python
+.python-version
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class

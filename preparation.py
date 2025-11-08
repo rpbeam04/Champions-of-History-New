@@ -4,7 +4,9 @@ import json
 import wikipediaapi
 
 # Scrape Wikipedia for Vital People
-people = scrape_vital_people()
+# people = scrape_vital_people()
+with open("vital_people.json", "r", encoding="utf-8") as f:
+    people = json.load(f)
 
 # Load invitees into dataset
 invitees = pd.read_csv('invitees.csv')
@@ -19,7 +21,7 @@ with open('invitees.json', 'w', encoding="utf-8") as f:
 # Obtain article lengths
 people = people + invitees
 
-wiki_wiki = wikipediaapi.Wikipedia(user_agent='MyProjectName (merlin@example.com)', language='en')
+wiki_wiki = wikipediaapi.Wikipedia(user_agent='HistoryMadness (rpbeam@icloud.com)', language='en')
 
 for i,person in enumerate(people):
     if i < 3000:

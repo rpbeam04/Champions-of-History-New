@@ -1,162 +1,210 @@
 import json
 from pprint import pprint
-from bracket import bracket
 import math
 import random
 from collections import Counter
+import pandas as pd
+from test import generate_seed_order
 
-with open("People_Dicts.json","r",encoding="utf-8") as f:
-  data = json.load(f)
+# Participants
+with open("participants.json","r",encoding="utf-8") as f:
+    participants = json.load(f)
 
-for i,d in enumerate(data):
-  data[i]["Rating"] = round(d["WordCount"]/1000 + 50)
+# Seeds
+seed = 0
+for i,person in enumerate(participants):
+    if i % 32 == 0:
+        seed += 1
+    person["Seed"] = seed
 
-def get_rating(name):
-  for d in data:
-    if d['Name'] == name:
-      return d['Rating']
-  return None
-def get_true_seed(name):
-  return tourney.teams.index(name)+1
-def get_seed(name):
-  return math.ceil((tourney.teams.index(name)+1)/32)
+# # Write Rankings
+# with open('Rankings.txt', 'w', encoding='utf-8') as f:
+#     for person in participants:
+#         f.write(f"{person['Seed']}. {person['Name']}\n")
 
-data = sorted(data, key = lambda x: x['WordCount'], reverse = True)
+# Regions Data
+region_data = pd.read_csv('regions.csv')
+regions = []
+final_32 = {}
+for _, row in region_data.iterrows():
+    if row["Region"] != "Final 32":
+        region = {}
+        region["Name"] = row["Region"].strip()
+        sites = row["First Weekend Sites"].split(";")
+        sites = [site.strip() for site in sites]
+        region["Sites"] = sites + sites
+        region["Final"] = row["Second Weekend Site"].strip()
+        region["Bracket"] = [[]]
+        regions.append(region)
+    else:
+        final_32["Name"] = row["Region"].strip()
+        sites = row["First Weekend Sites"].split(";")
+        sites = [site.strip() for site in sites]
+        final_32["Sites"] = sites + sites
+        final_32["Final"] = row["Second Weekend Site"].strip()
+        final_32["Bracket"] = [[]]
 
-tourney = bracket.Bracket([i["Name"] for i in data])
+def seed_weight(seed, exponent=1.15):
+    return 1 / (seed ** exponent)
 
-with open("Rankings.txt",'w',encoding="utf-8") as f:
-  for team in tourney.teams:
-    f.write(f"{get_seed(team)}. {team}\n")  
+# BLACKLIST:
+# The blacklist is a list of historical figures I cannot justify winning the bracket
+# despite the consideration that this bracket signifies raw influence and impact, not 
+# endorsement nor celebration. Figures are capped by the rounds listed unless two figures
+# on the blacklist play each other in a cap round. For that reason, the blacklist has
+# been designed such that even if all blacklisted figures advanced to a round, there will
+# always be one guaranteed non-blacklisted figure who would win the tournament.
+# 
+# The blacklist was created by naming obvious figures who should not be included, as well
+# as searching each participant's bio for terms like 'Nazi' and 'genocide' that are associated
+# with despicable views, actions, and events. It is possible I accidentally omitted someone,
+# but I did my best to blacklist the worst of the worst.
+#
+# It should also be noted that there are controversial figures who many would advocate
+# should be included on this list. The inclusion of a blacklist at all is a slipperly slope
+# that can quickly lead to the inclusion of opinionated narratives, especially regarding current
+# political figures. I did my best to find a firm line to differentiate between controversial
+# and evil figures, but again, omission from this list does not indicate endorsement of a
+# figure.
+# 
+# The decisions on round by round placement in this list were mainly driven by seed, with
+# consideration given to significance as well. 
+#
+blacklist = {1: [], 2: [], 3: [], 4: [], 5: [], 6: [],
+             "f1": ["Erich Ludendorff","Talaat Pasha","Albert Speer"], 
+             "f2": ["Heinrich Himmler","Joseph Goebbels","Osama bin Laden","Erwin Rommel",
+                    "Hermann Göring","Ion Antonescu","Paul von Hindenburg","Ante Pavelić"], 
+             "f3": ["Adolf Hitler","Pol Pot","Benito Mussolini","Hirohito"], 
+             "f4": ["Mao Zedong","Leopold II of Belgium"], "f5": ["Joseph Stalin"], "f6": []}
 
-with open("FirstRound.txt","w",encoding="utf-8") as f:
-  c = 1
-  for seed in tourney.lineup:
-    if (c-1)%64 == 0:
-      f.write(f"--REGION {int((c-1)/64 +1)}--\n")
-    f.write(f"{math.ceil(seed/32)}. {tourney.teams[seed-1]} ({get_rating(tourney.teams[seed-1])})\n")
-    if c%2==0:
-      f.write("\n")
-    c+=1
+def choose_winner(p1, p2, round_stage):
+    s1 = p1["Seed"]
+    s2 = p2["Seed"]
+    
+    if p1["Name"] in blacklist[round_stage] and p2["Name"] in blacklist[round_stage]:
+        if len(str(round_stage) > 1):
+            next_rd = f"f{int(round_stage.strip("f"))+1}"
+        else:
+            if round_stage == 6:
+                next_rd = "f1"
+            else:
+                next_rd = round_stage + 1
+        if s1 < s2:
+            blacklist[next_rd].append(p1)
+            return p1
+        else:
+            blacklist[next_rd].append(p2)
+            return p2
+    elif p1["Name"] in blacklist[round_stage]:
+        return p2
+    elif p2["Name"] in blacklist[round_stage]:
+        return p1
 
-def win_probability():
-  return None
+    if round_stage in [1, 2]:
+        exp = 1.12
+        if s1 >= 49 or s2 >= 49:
+            high_seed = max(s1,s2)
+            scale = (high_seed - 49) / (64 - 49)  # ranges from 0 to 1
+            exp = 1.12 + scale * (1.25 - 1.12)
+        w1 = seed_weight(s1, exponent=exp)
+        w2 = seed_weight(s2, exponent=exp)
+    elif round_stage in [3, 4]:
+        exp = 0.85
+        if s1 >= 49 or s2 >= 49:
+            high_seed = max(s1,s2)
+            scale = (high_seed - 49) / (64 - 49)  # ranges from 0 to 1
+            exp = 0.85 + scale * (1 - 0.85)
+        w1 = seed_weight(s1, exponent=exp)
+        w2 = seed_weight(s2, exponent=exp)
+    elif round_stage in [5, 6]:
+        base = 6
+        w1 = math.log(s2 + base, base)
+        w2 = math.log(s1 + base, base)
+    elif round_stage in ["f1","f2","f3"]:
+        base = 9
+        w1 = math.log(s2 + base, base)
+        w2 = math.log(s1 + base, base)
+    else:
+        base = 12
+        w1 = math.log(s2 + base, base)
+        w2 = math.log(s1 + base, base)
+    
+    return random.choices([p1, p2], weights=[w1, w2])[0]
 
-def matchup(team1,team2):
-  w1 = 1/(1+math.e**(-0.18*(get_rating(team1)-75)))
-  w2 = 1/(1+math.e**(-0.18*(get_rating(team2)-75)))
-  return random.choices([team1,team2],weights=[w1,w2])[0]
+regionals = []
+elite8 = []
+winners = []
+sims = 1000
+for _ in range(sims):
+    random.shuffle(regions)
 
-champions = []
-for u in range(0,10):
-  matchups = [x for x in tourney.lineup]
-  for r in range(1,len(tourney.rounds)):
-    next_round = []
-    winners = []
-    for c,seed in enumerate(matchups):
-      if c%2==0:
-        winner = matchup(tourney.teams[matchups[c+1]-1],tourney.teams[matchups[c]-1])
-        winners.append(winner)
-        next_round.append(get_true_seed(winner))
-    tourney.update(r+1,winners)
-    matchups = next_round
-  champions.append(tourney.rounds[-1][0])
-  if u%10==0:
-    print(f"{u}:\n")
-    last_8 = tourney.rounds[-4:]
-    pprint(last_8)
-    for i,round in enumerate(last_8):
-      last_8[i] = [get_seed(x) for x in round]
-    pprint(last_8)
-    print("\n\n")
-  tourney = bracket.Bracket([i["Name"] for i in data])
+    # Filling in the bracekts
+    seed_order = generate_seed_order(64)
+    for seed in seed_order:
+        seed_participants = [p for p in participants if p["Seed"] == seed] 
+        for region in regions:
+            choice = random.choice(seed_participants)
+            seed_participants.remove(choice)
+            region["Bracket"][0].append(choice)
 
-counted = dict(Counter(champions))
-champs_dicts = []
-for key, val in counted.items():
-  champs_dicts.append({"name":key,"seed":get_seed(key),"wins":val})
-del(counted)
-champs_dicts = sorted(champs_dicts, key = lambda x: x["seed"])
-pprint(champs_dicts)
-print("\n___________\n")
+    # Simulating the regions
+    for i,region in enumerate(regions):
+        for r in range(0,6):
+            regions[i]["Bracket"].append([])
+            j = 0
+            while j < len(region["Bracket"][r]):
+                winner = choose_winner(region["Bracket"][r][j], region["Bracket"][r][j+1], r+1)
+                regions[i]["Bracket"][r+1].append(winner)
+                j += 2
+        regions[i]["Winner"] = region["Bracket"][6][0]
 
-# for i,d in enumerate(results):
-#   results[i]["seed"] = get_seed(d['name'])
+    # Simulating the final 32
+    for region in regions:
+        final_32["Bracket"][0].append(region["Winner"])
 
-# seed_cts = []
-# for i in range(1,17):
-#   seed_cts.append({"seed":i,"wins":0})
-# for d in results:
-#   seed_cts[d["seed"]-1]["wins"]+=d["wins"]
-# for i,d in enumerate(seed_cts):
-#   seed_cts[i]["pct"] = d["wins"]/10
-# pprint(seed_cts)
+    for r in range(0,5):
+        final_32["Bracket"].append([])
+        j = 0
+        while j < len(final_32["Bracket"][r]):
+            winner = choose_winner(final_32["Bracket"][r][j], final_32["Bracket"][r][j+1],f"f{r+1}")
+            final_32["Bracket"][r+1].append(winner)
+            j += 2
+    final_32["Winner"] = final_32["Bracket"][5][0]
 
-def generate_bracket_html(teams):
-    # Determine the number of rounds needed for the bracket
-    num_rounds = math.ceil(math.log2(len(teams)))
+    for r in regions:
+        regionals.append(r["Winner"]["Seed"])
+    for p in final_32["Bracket"][2]:
+        elite8.append(p["Seed"])
+    winners.append(final_32["Winner"]["Seed"])
 
-    # Initialize the bracket HTML
-    bracket_html = '<div class="tournament-bracket">'
+    # # Print the elite 8
+    # for r in range(2,6):
+    #     x = []
+    #     for p in final_32["Bracket"][r]:
+    #         x.append(f'{p["Seed"]}. {p["Name"]}')
+    #     print(x)
 
-    # Generate the HTML for each round of the bracket
-    for round_num in range(num_rounds):
-        round_html = '<div class="bracket-round">'
-        for match_num in range(2 ** (num_rounds - round_num - 1)):
-            team1_index = match_num * 2
-            team2_index = match_num * 2 + 1
-            team1 = teams[team1_index] if team1_index < len(teams) else ''
-            team2 = teams[team2_index] if team2_index < len(teams) else ''
-            match_html = f'<div class="bracket-match"><span class="team">{team1}</span><span class="team">{team2}</span></div>'
-            round_html += match_html
-        round_html += '</div>'
-        bracket_html += round_html
+    # print('\n')
 
-    # Close the bracket HTML
-    bracket_html += '</div>'
+    # Reset brackets
+    final_32["Bracket"] = [[]]
+    for i,region in enumerate(regions):
+        regions[i]["Bracket"] = [[]]
 
-    return bracket_html
+# Simulation stats printer
+def print_stats(regions, ct):
+    for s in range(1,9):
+        print(f"{s}: {100*regions[s]/(ct*sims):.2f}%")
+    print(f"9-16: {100*sum([regions[i] for i in range(9,17)])/(ct*sims):.2f}%")
+    print(f"16+: {100*sum([regions[i] for i in range(17,65)])/(ct*sims):.2f}%")
+    print(f"~Lvl 4: {100 - 100*sum([regions[i] for i in range(1,5)])/(ct*sims):.2f}%")
 
-def generate_first_round_html(teams):
-    # Determine the number of rounds needed for the bracket
-    num_rounds = math.ceil(math.log2(len(teams)))
-
-    # Initialize the bracket HTML
-    bracket_html = '<div class="tournament-bracket">'
-
-    # Generate the HTML for the first round of the bracket
-    round_num = 0
-    round_html = '<div class="bracket-round">'
-    for match_num in range(2 ** (num_rounds - round_num - 1)):
-        team1_index = match_num * 2
-        team2_index = match_num * 2 + 1
-        team1 = teams[team1_index] if team1_index < len(teams) else ''
-        team2 = teams[team2_index] if team2_index < len(teams) else ''
-        match_html = f'<div class="bracket-match"><span class="team">{team1}</span><span class="team">{team2}</span></div>'
-        round_html += match_html
-    round_html += '</div>'
-    bracket_html += round_html
-
-    # Close the bracket HTML
-    bracket_html += '</div>'
-
-    return bracket_html
-
-
-html = generate_first_round_html([tourney.teams[x-1] for x in tourney.lineup[:64]])
-
-# from bracketeer import build_bracket
-
-# seeds = []
-# for i,seed in enumerate(tourney.lineup):
-#   if i%2==1:
-#     true_pair = []
-#     pair = [math.ceil(seed/32),math.ceil(tourney.lineup[i-1]/32)]
-#     pair.sort()
-#     seeds.append(pair)
-# b = build_bracket(teamsPath="",seedsPath="")
-
-# html = b.render()
-
-with open("Bracket.html","w",encoding="utf-8") as f:
-  f.write(html)
+print("Regions")
+regions = Counter(regionals)
+print_stats(regions, 32)
+print("Elite 8")
+elite = Counter(elite8)
+print_stats(elite, 8)
+print("\nWinners")
+win = Counter(winners)
+print_stats(win, 1)
