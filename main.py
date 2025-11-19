@@ -82,8 +82,8 @@ def choose_winner(p1, p2, round_stage):
     s2 = p2["Seed"]
     
     if p1["Name"] in blacklist[round_stage] and p2["Name"] in blacklist[round_stage]:
-        if len(str(round_stage) > 1):
-            next_rd = f"f{int(round_stage.strip("f"))+1}"
+        if len(str(round_stage)) > 1:
+            next_rd = f"f{int(round_stage.strip('f'))+1}"
         else:
             if round_stage == 6:
                 next_rd = "f1"
