@@ -30,6 +30,7 @@
       display: flex;
       justify-content: space-between;
       overflow: auto;
+      align-items: center; /* vertically center children based on content height */
     } 
 
     .bracket-left,
@@ -38,6 +39,7 @@
       flex-direction: row;
       overflow: visible;
       z-index: 0;
+      flex: 1; /* allow left and right columns to take equal available space so center sits in the middle */
     }
 
     .round {
@@ -166,14 +168,15 @@
     }
 
     .bracket-center {
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-        min-width: 150px;
-        position: relative;
-        overflow: visible;
-        z-index: 10;           /* Ensure it’s above overlapping siblings if needed */
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      min-width: 150px;
+      position: relative; /* keep in normal flow so vertical centering uses content height */
+      margin: 0 auto;     /* center horizontally within remaining space */
+      overflow: visible;
+      z-index: 10;           /* Ensure it’s above overlapping siblings if needed */
     }
 
     .round.round-7 {
@@ -194,6 +197,11 @@
 
   </style>
 </head>
-<body>
+  <body>
+    <div class="bracket-container">
+    <style>
+      :root{--bracket-scale:0.90}
+      .bracket-container{transform:scale(var(--bracket-scale));transform-origin:top center;width:calc(100% / var(--bracket-scale));}
+    </style>
 
-  <h1>Tournament Bracket</h1>
+    <h1>Tournament Bracket</h1>

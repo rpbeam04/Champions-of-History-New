@@ -1,0 +1,6 @@
+streamlit
+pandas
+weasyprint
+wikipediaapi
+beautifulsoup4
+requests

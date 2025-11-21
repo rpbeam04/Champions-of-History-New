@@ -55,7 +55,7 @@ if __name__ == '__main__':
 
     with open(template_path('BracketTop.html'), 'r', encoding='utf-8') as f:
         bracket_top = f.read()
-        bracket_bottom = '</main></body></html>'
+        bracket_bottom = '</main></div></body></html>'
 
     html = bracket_top + bracket + bracket_bottom
 

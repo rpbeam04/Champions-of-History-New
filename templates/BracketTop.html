@@ -12,7 +12,8 @@
 
     body {
       font-family: sans-serif;
-      font-size: small;
+      /* Base font size for the document */
+      font-size: 14px;
       padding: 15px;
       background-color: #f4f4f4;
       break-after: avoid;
@@ -27,10 +28,15 @@
       text-align: center;
     }
 
+    /* Heading sizes */
+    h1 { font-size: 32px; }
+    h2 { font-size: 20px; }
+
     main {
       display: flex;
       justify-content: space-between;
       overflow: auto;
+      align-items: center; /* vertically center children based on content height */
     } 
 
     .bracket-left,
@@ -39,6 +45,7 @@
       flex-direction: row;
       overflow: visible;
       z-index: 0;
+      flex: 1; /* allow left and right columns to take equal available space so center sits in the middle */
     }
 
     .round {
@@ -67,13 +74,14 @@
     .bracket-left li.game {
     display: flex;
     align-items: baseline;   /* Align text properly */
-    font-size: 10pt;
+    /* Use relative sizes based on the document base */
+    font-size: 0.9rem;
     white-space: nowrap;
     padding-left: 5px;
     }
 
     .bracket-left li.game .seed {
-    font-size: 7pt;           /* Smaller seed */
+    font-size: 0.65rem;           /* Smaller seed */
     margin-right: 4px;
     color: #666;              /* Optional: lighter color */
     flex-shrink: 0;           /* Prevent it from stretching or shrinking */
@@ -85,7 +93,7 @@
 
     .bracket-left li.game span {
       float: left;
-      font-size: 7pt;
+      font-size: 0.65rem;
       margin-right: 3px;
     }
 
@@ -100,7 +108,7 @@
       align-items: center;
       justify-content: right;
       padding-right: 10px;
-      font-size: 9pt;
+      font-size: 0.8rem;
       font-variant-caps: all-small-caps;
       color: #666;
     }
@@ -125,14 +133,14 @@
     justify-content: flex-end;   /* Align everything to the right */
     align-items: baseline;
     white-space: nowrap;
-    font-size: 10pt;
+    font-size: 0.9rem;
     padding-right: 5px;
     text-align: right;
     direction: ltr; /* Prevent text and numbers from flipping */
     }
 
     .bracket-right li.game .seed {
-    font-size: 7pt;
+    font-size: 0.65rem;
     margin-left: 4px;  /* space between seed and team name */
     color: #666;
     flex-shrink: 0;
@@ -141,7 +149,7 @@
 
     .bracket-right li.game span {
       float: right;
-      font-size: 7pt;
+      font-size: 0.65rem;
       margin-left: 3px;
     }
 
@@ -163,22 +171,22 @@
       align-items: center;
       justify-content: left;
       padding-left: 10px;
-      font-size: 9pt;
+      font-size: 0.8rem;
       font-variant-caps: all-small-caps;
       color: #666;
     }
 
     .bracket-center {
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-        min-width: 150px;
-        position: relative;
-        overflow: visible;
-        z-index: 10;           /* Ensure it’s above overlapping siblings if needed */
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      min-width: 150px;
+      position: relative; /* keep in normal flow so vertical centering uses content height */
+      margin: 0 auto;     /* center horizontally within remaining space */
+      overflow: visible;
+      z-index: 10;           /* Ensure it’s above overlapping siblings if needed */
     }
-
     .round.round-7 {
         list-style: none;
         padding: 0;
@@ -187,14 +195,21 @@
     }
 
     .round.round-7 li.game {
-        display: flex;
-        justify-content: center;
-        border-bottom: 1px solid #aaa;
-        font-weight: bold;
-        overflow: visible;
+      display: flex;
+      justify-content: center;
+      border-bottom: 1px solid #aaa;
+      font-weight: bold;
+      overflow: visible;
+      font-size: 1rem;
     }
 
 
   </style>
 </head>
-<body>
+  <body>
+    <div class="bracket-container">
+    <!-- Wrapper scales the entire bracket content; adjust --scale-- to change zoom -->
+    <style>
+      :root{--bracket-scale:0.90}
+      .bracket-container{transform:scale(var(--bracket-scale));transform-origin:top center;width:calc(100% / var(--bracket-scale));}
+    </style>
