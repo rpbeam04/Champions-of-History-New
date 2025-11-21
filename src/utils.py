@@ -1,8 +1,5 @@
-from weasyprint import HTML
 import random
-import json
 import pandas as pd
-from pprint import pprint
 
 
 def generate_seed_order(n):
@@ -31,6 +28,8 @@ def generate_seed_order(n):
 
 
 def generate_full_bracket_html(people, regions):
+    import random
+
     def generate_blank_round_ul(round_num, num_matchups):
         html = [f'<ul class="round round-{round_num}">']
         for _ in range(num_matchups):
@@ -118,45 +117,3 @@ def generate_full_bracket_html(people, regions):
     html.append('</main>')
 
     return "\n".join(html)
-
-
-if __name__ == "__main__":
-    with open('participants.json', 'r', encoding='utf-8') as f:
-        participants = json.load(f)
-
-    seed = 0
-    for i, person in enumerate(participants):
-        if i % 32 == 0:
-            seed += 1
-        person["Seed"] = seed
-
-    seeds = generate_seed_order(64)
-    people = []
-    for s in seeds:
-        r = random.randint((s - 1) * 32, s * 32 - 1)
-        people.append(participants[r])
-        assert participants[r]["Seed"] == s, f"{participants[r]['Seed']} {s}"
-
-    region_data = pd.read_csv('regions.csv')
-    regions = []
-    for _, row in region_data.iterrows():
-        if row["Region"] != "Final 32":
-            region = {}
-            region["Name"] = row["Region"].strip()
-            sites = row["First Weekend Sites"].split(";")
-            sites = [site.strip() for site in sites]
-            region["Sites"] = sites + sites
-            region["Final"] = row["Second Weekend Site"].strip()
-            regions.append(region)
-
-    bracket = generate_full_bracket_html(people, regions)
-
-    with open("BracketTop.html", "r", encoding="utf-8") as f:
-        bracket_top = f.read()
-        bracket_bottom = "</main></body></html>"
-
-    html = bracket_top + bracket + bracket_bottom
-    # with open("Bracket.html", "w", encoding="utf-8") as f:
-    #     f.write(html)
-
-    HTML(string=html).write_pdf('output.pdf')
