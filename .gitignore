@@ -12,7 +12,5 @@ pyvenv.cfg
 .Python
 .python-version
 
-# Byte-compiled / cache
-__pycache__/
 *.py[cod]
 *$py.class

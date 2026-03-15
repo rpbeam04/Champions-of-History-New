@@ -1,25 +1,9 @@
 import random
 import json
 import pandas as pd
-from pathlib import Path
-from src.utils import generate_seed_order, generate_full_bracket_html
 
-BASE_DIR = Path(__file__).resolve().parents[1]
-
-def data_path(name):
-    p = BASE_DIR / 'data' / name
-    if p.exists():
-        return p
-    p = BASE_DIR / name
-    return p
-
-
-def template_path(name):
-    p = BASE_DIR / 'templates' / name
-    if p.exists():
-        return p
-    p = BASE_DIR / name
-    return p
+from brackets import generate_full_bracket_html, generate_seed_order
+from brackets.paths import OUTPUTS_DIR, data_path, template_path
 
 
 if __name__ == '__main__':
@@ -59,8 +43,7 @@ if __name__ == '__main__':
 
     html = bracket_top + bracket + bracket_bottom
 
-    out_dir = BASE_DIR / 'outputs'
-    out_dir.mkdir(exist_ok=True)
+    OUTPUTS_DIR.mkdir(exist_ok=True)
     # import weasyprint only when actually generating the PDF to avoid hard dependency on import time
     from weasyprint import HTML
-    HTML(string=html).write_pdf(out_dir / 'output.pdf')
+    HTML(string=html).write_pdf(OUTPUTS_DIR / 'output.pdf')

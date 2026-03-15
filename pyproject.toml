@@ -1,0 +1,16 @@
+[project]
+name = "champions-of-history"
+version = "0.1.0"
+description = "Tournament bracket simulator and Flask app for Champions of History"
+requires-python = ">=3.11"
+dependencies = [
+	"beautifulsoup4",
+	"Flask",
+	"pandas",
+	"requests",
+	"weasyprint",
+	"Wikipedia-API",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

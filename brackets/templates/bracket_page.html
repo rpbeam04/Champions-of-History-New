@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="panel panel-bracket">
+  <div class="panel-header">
+    <h2>Bracket Preview</h2>
+    <p>This is a Flask-rendered preview using the current participants and region data.</p>
+  </div>
+  <div class="bracket-preview">{{ bracket_html|safe }}</div>
+</section>
+{% endblock %}

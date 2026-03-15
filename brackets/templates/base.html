@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Champions of History</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="hero">
+      <p class="eyebrow">Champions of History</p>
+      <h1>A tournament bracket for the most influential figures in history.</h1>
+      <p class="lede">The Flask app is now wired with an app factory, a landing page, and a bracket preview route. Simulation and interactive advancement can layer on top of this structure.</p>
+      <nav class="hero-nav">
+        <a href="{{ url_for('main.index') }}">Home</a>
+        <a href="{{ url_for('main.bracket') }}">Bracket Preview</a>
+      </nav>
+    </header>
+    <main class="content">
+      {% block content %}{% endblock %}
+    </main>
+  </div>
+</body>
+</html>
